@@ -1,0 +1,174 @@
+{{ define "main" }}
+
+<section id="home" class="section">
+  <div>
+    <div class="columns">
+      <header class="header">
+        <a href="img/portrait_original.png"
+            target="_blank"><img width="200"
+                src="img/portrait.jpg"
+                alt="Portrait: Marcus Biermann"></a>
+      </header>
+
+      <div>
+        <h1>{{ .Params.Home.Title }}</h1>
+        <p>
+          <strong>
+            {{ .Params.Home.Intro.Text }}
+          </strong>
+        </p>
+
+        <h3>I am available for interviews at</h3>
+
+        <ul>
+          {{ range .Params.Home.Locations }}
+            <li>{{ .text }}</li>
+          {{ end }}
+        </ul>
+
+        <p class="download">
+          <a href="{{ .Params.Home.Job_paper }}"
+              target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg"
+                  class="icon"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="7 10 12 15 17 10"></polyline>
+              <line x1="12"
+                    y1="15"
+                    x2="12"
+                    y2="3"></line>
+            </svg>
+            Download Job Market Paper
+          </a>
+        </p>
+
+        <h3>Contact</h3>
+        <address>
+          email:
+          <a href="mailto:{{ .Params.Home.Contact.Email }}">
+            {{ .Params.Home.Contact.Email }}
+          </a><br>
+          
+          Department of Economics<br>
+          London School of Economics and Political Science<br>
+          Houghton Street<br>
+          London WC2A 2AE
+        </address>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Research Section -->
+
+<section id="research"
+          class="section">
+  <div>
+    <header class="header">
+      <h2><span>Research</span></h2>
+    </header>
+
+    {{ range .Params.Papers }}
+      <article class="paper">
+        <header>
+          <h3>{{ .headline }}</h3>
+          <a href="{{ .link }}"
+            target="_blank">
+            <span>
+              {{ .title }}
+            </span>
+          </a><br>
+          {{ .subtitle }}
+        </header>
+
+        <p>
+          {{ .description }}
+        </p>
+      </article>
+    {{ end }}
+  </div>
+</section>
+
+<!-- CV Section -->
+
+<section id="cv"
+          class="section">
+  <div>
+    <header class="header">
+      <h2><span>CV</span></h2>
+    </header>
+
+    <p class="download">
+      <a href="{{ .Params.Home.Cv }}"
+          target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg"
+              class="icon"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round">
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+          <polyline points="7 10 12 15 17 10"></polyline>
+          <line x1="12"
+                y1="15"
+                x2="12"
+                y2="3"></line>
+        </svg>
+        Full CV (pdf)
+      </a>
+    </p>
+
+    <h3>Short CV</h3>
+
+    <p>
+      <strong>Primary Research Field:</strong><br>  {{ .Params.Cv.Primary_research_fields }}<br><br>
+
+      <strong>Secondary Research Fields:</strong><br> {{ .Params.Cv.Secondary_research_fields }}<br><br>
+
+      <strong>Pre-Doctoral Studies:</strong><br> 
+      {{ range .Params.Cv.Pre_doctoral_studies }}
+        {{ safeHTML .item }}<br>
+      {{ end }}
+    </p>
+  </div>
+</section>
+
+<!-- Teaching Section -->
+
+<section id="teaching"
+          class="section">
+  <div>
+    <header class="header">
+      <h2><span>Teaching</span></h2>
+    </header>
+
+    {{ range .Params.Teaching.Tables }}
+      <h3>{{ .headline }}</h3>
+
+      <table class="timetable">
+        <tbody>
+          {{ range .rows }}
+            <tr>
+              <td>{{ .date }}</td>
+              <td>{{ safeHTML .title }}</td>
+            </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}
