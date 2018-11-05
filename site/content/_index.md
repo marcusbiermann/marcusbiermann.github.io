@@ -32,7 +32,9 @@ papers:
     headline: Job Market Paper
     link: 'https://drive.google.com/open?id=1n1-pd4CxyauSDExvsukhXQWQe9wXTWAK'
     subtitle: (with Kilian Huber)
-    title: Multinational Corporations and the International Transmission of Crises
+    title: >-
+      Causal Evidence on the International Transmission of Crises Through
+      Multinational Firms
   - description: >-
       What is the effect of trade on the size distribution of firms? I collected
       historical data between 1882 and 1907 from the German Empire to address
