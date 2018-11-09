@@ -27,8 +27,10 @@ papers:
       mechanism from parents’ credit supply to affiliates’ sales. Both financial
       and real channels played a role: Parents withdrew equity from their
       affiliates, reduced intra-firm trade with affiliates, and required more
-      long-term lending from the affiliates. The results suggest that
-      multinationals contribute to global business cycle synchronization.
+      long-term lending from the affiliates. The results improve our
+      understanding of the internal operations of multinational firms and
+      suggest that multinationals contribute to global business cycle
+      synchronization.
     headline: Job Market Paper
     link: 'https://drive.google.com/open?id=1n1-pd4CxyauSDExvsukhXQWQe9wXTWAK'
     subtitle: (with Kilian Huber)
