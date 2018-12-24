@@ -10,7 +10,7 @@ home:
       research field is international trade. My secondary research interests are
       economic history and finance.
   job_paper: 'https://drive.google.com/open?id=1n1-pd4CxyauSDExvsukhXQWQe9wXTWAK'
-  large_photo: /img/portrait_original.png
+  large_photo: /img/profile_picture_biermann.png
   locations:
     - text: the European Job Market in Naples.
     - text: and the ASSA Annual Meeting in Atlanta.
