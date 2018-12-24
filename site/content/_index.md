@@ -14,7 +14,7 @@ home:
   locations:
     - text: the European Job Market in Naples.
     - text: and the ASSA Annual Meeting in Atlanta.
-  small_photo: /img/portrait.jpg
+  small_photo: /img/profile_picture_biermann.png
   title: Marcus Biermann
 papers:
   - description: >-
@@ -53,6 +53,12 @@ papers:
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
     subtitle: (Revise and resubmit at the Canadian Journal of Economics)
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
+  - headline: Work in Progress and Future Research
+    title: The Role of Management Practices in Acquisitions and FDI
+  - headline: ''
+    title: 'International Trade and Business Cycle Comovement: Causal Evidence'
+  - headline: ''
+    title: Dissecting the Effect of Credit Supply on Services Trade
 cv:
   pre_doctoral_studies:
     - item: 'Master of Research in Economics, LSE (2013)'
