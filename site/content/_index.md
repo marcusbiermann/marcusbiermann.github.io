@@ -61,9 +61,6 @@ papers:
   - headline: ''
     subtitle: ' Dissecting the Effect of Credit Supply on Services Trade '
     title: ''
-  - headline: ''
-    subtitle: ''
-    title: ''
 cv:
   pre_doctoral_studies:
     - item: 'Master of Research in Economics, LSE (2013)'
