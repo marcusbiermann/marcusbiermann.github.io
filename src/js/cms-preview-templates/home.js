@@ -93,9 +93,18 @@ export default class PostPreview extends React.Component {
                   <br />
                   {paper.getIn(['subtitle'])}
                 </header>
-                ^<p>{paper.getIn(['description'])}</p>
+                <p>{paper.getIn(['description'])}</p>
               </article>
             ))}
+
+            <article class="paper">
+              <header>
+                <h3>Work in Progress and Future Research</h3>
+              </header>
+              {entry.getIn(['data', 'wip']).map(wip => (
+                <p class="wip">{wip.getIn(['title'])}</p>
+              ))}
+            </article>
           </div>
         </section>
 
