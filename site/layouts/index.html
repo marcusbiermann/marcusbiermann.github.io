@@ -94,6 +94,15 @@
         </p>
       </article>
     {{ end }}
+
+    <article class="paper">
+      <header>
+        <h3>Work in Progress and Future Research</h3>
+      </header>
+      {{ range .Params.Wip }}
+        <p class="wip">{{ .title }}</p>
+      {{ end }}
+      </article>
   </div>
 </section>
 

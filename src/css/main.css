@@ -230,6 +230,10 @@ address {
   font-style: italic;
 }
 
+.paper .wip {
+  margin-bottom: 14px;
+}
+
 @media only screen and (min-width: 768px) {
   .paper {
     margin-bottom: 60px;

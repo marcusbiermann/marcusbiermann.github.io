@@ -55,6 +55,14 @@ collections: # A list of collections the CMS should be able to edit
             ],
           }
           - {
+            label: 'WIP',
+            name: wip,
+            widget: list,
+            fields: [
+              { label: 'Title', name: 'title', widget: 'string' },
+            ],
+          }
+          - {
               label: 'CV',
               name: cv,
               widget: object,
