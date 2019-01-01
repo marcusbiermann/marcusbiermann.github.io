@@ -53,14 +53,10 @@ papers:
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
     subtitle: (Revise and resubmit at the Canadian Journal of Economics)
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
-  - description: ' International Trade and Business Cycle Comovement: Causal Evidence '
-    headline: Work in Progress and Future Research
-    link: ''
-    subtitle: The Role of Management Practices in Acquisitions and FDI
-    title: ''
-  - headline: ''
-    subtitle: ' Dissecting the Effect of Credit Supply on Services Trade '
-    title: ''
+wip:
+  - title: The Role of Management Practices in Acquisitions and FDI
+  - title: ' International Trade and Business Cycle Comovement: Causal Evidence '
+  - title: ' Dissecting the Effect of Credit Supply on Services Trade '
 cv:
   pre_doctoral_studies:
     - item: 'Master of Research in Economics, LSE (2013)'
