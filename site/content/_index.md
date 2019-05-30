@@ -9,7 +9,7 @@ home:
       and affiliated with the Centre for Economic Performance. My primary
       research field is international trade. My secondary research interests are
       economic history and finance.
-  job_paper: 'https://drive.google.com/open?id=1n1-pd4CxyauSDExvsukhXQWQe9wXTWAK'
+  job_paper: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
   large_photo: /img/portrait_original.png
   locations:
     - text: the European Job Market in Naples.
@@ -25,18 +25,18 @@ papers:
       of their international affiliates for three years. We use unique data on
       linkages between parents and affiliates to study the transmission
       mechanism from parents’ credit supply to affiliates’ sales. Both financial
-      and real channels played a role: Parents withdrew equity from their
-      affiliates, reduced intra-firm trade with affiliates, and required more
-      long-term lending from the affiliates. The results improve our
+      constraints and intrafirm trade played a role: Parents withdrew equity
+      from their affiliates, required more long-term lending from the
+      affiliates, and traded less with their affiliates. The results improve our
       understanding of the internal operations of multinational firms and
       suggest that multinationals contribute to global business cycle
       synchronization.
     headline: Job Market Paper
-    link: 'https://drive.google.com/open?id=1n1-pd4CxyauSDExvsukhXQWQe9wXTWAK'
+    link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
     subtitle: (with Kilian Huber)
     title: >-
-      Causal Evidence on the International Transmission of Crises Through
-      Multinational Firms
+      Tracing the International Transmission of a Crisis Through Multinational
+      Firms
   - description: >-
       What is the effect of trade on the size distribution of firms? I collected
       historical data between 1882 and 1907 from the German Empire to address
