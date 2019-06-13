@@ -31,7 +31,7 @@ papers:
       understanding of the internal operations of multinational firms and
       suggest that multinationals contribute to global business cycle
       synchronization.
-    headline: Job Market Paper
+    headline: Working Paper
     link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
     subtitle: (with Kilian Huber)
     title: >-
