@@ -1,19 +1,17 @@
 ---
 home:
   contact:
-    email: 'm.biermann@lse.ac.uk '
+    email: marcus.biermann@uclouvain.be
   cv: 'https://drive.google.com/open?id=14Scl3GwyI0ojuLoPhkom_WS4dWys9jGE'
   intro:
     text: >-
-      I am a job market candidate in economics at the London School of Economics
-      and affiliated with the Centre for Economic Performance. My primary
-      research field is international trade. My secondary research interests are
-      economic history and finance.
+      I am a postdoctoral researcher at IRES, Université catholique de Louvain.
+      I obtained my PhD from the LSE and I am affiliated with the Centre for
+      Economic Performance. My primary research field is international trade. My
+      secondary research interests are economic history and finance.
   job_paper: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
   large_photo: /img/portrait_original.png
-  locations:
-    - text: the European Job Market in Naples.
-    - text: and the ASSA Annual Meeting in Atlanta.
+  locations: []
   small_photo: /img/portrait_original.png
   title: Marcus Biermann
 papers:
