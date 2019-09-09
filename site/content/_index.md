@@ -54,7 +54,7 @@ papers:
 wip:
   - title: The Role of Management Practices in Acquisitions and FDI
   - title: ' International Trade and Business Cycle Comovement: Causal Evidence '
-  - title: ' Dissecting the Effect of Credit Supply on Services Trade '
+  - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
 cv:
   pre_doctoral_studies:
     - item: 'Master of Research in Economics, LSE (2013)'
