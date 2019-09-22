@@ -96,7 +96,7 @@
 
     <article class="paper">
       <header>
-        <h3>Work in Progress and Future Research</h3>
+        <h3>Work in Progress</h3>
       </header>
       {{ range .Params.Wip }}
         <p class="wip">{{ .title }}</p>
@@ -145,7 +145,7 @@
 
       <strong>Secondary Research Fields:</strong><br> {{ .Params.Cv.Secondary_research_fields }}<br><br>
 
-      <strong>Pre-Doctoral Studies:</strong><br> 
+      <strong>Education:</strong><br> 
       {{ range .Params.Cv.Pre_doctoral_studies }}
         {{ safeHTML .item }}<br>
       {{ end }}

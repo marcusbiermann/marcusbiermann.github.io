@@ -10,7 +10,10 @@ export default class PostPreview extends React.Component {
           <div>
             <div class="columns">
               <header class="header">
-                <a href={getAsset(entry.getIn(['data', 'home', 'large_photo']))} target="_blank">
+                <a
+                  href={getAsset(entry.getIn(['data', 'home', 'large_photo']))}
+                  target="_blank"
+                >
                   <img
                     width="200"
                     src={getAsset(entry.getIn(['data', 'home', 'small_photo']))}
@@ -22,7 +25,9 @@ export default class PostPreview extends React.Component {
               <div>
                 <h1>{entry.getIn(['data', 'home', 'title'])}</h1>
                 <p>
-                  <strong>{entry.getIn(['data', 'home', 'intro', 'text'])}</strong>
+                  <strong>
+                    {entry.getIn(['data', 'home', 'intro', 'text'])}
+                  </strong>
                 </p>
 
                 <h3>I am available for interviews at</h3>
@@ -34,7 +39,10 @@ export default class PostPreview extends React.Component {
                 </ul>
 
                 <p class="download">
-                  <a href={entry.getIn(['data', 'home', 'job_paper'])} target="_blank">
+                  <a
+                    href={entry.getIn(['data', 'home', 'job_paper'])}
+                    target="_blank"
+                  >
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       class="icon"
@@ -58,7 +66,12 @@ export default class PostPreview extends React.Component {
                 <h3>Contact</h3>
                 <address>
                   email:{' '}
-                  <a href={'mailto:' + entry.getIn(['data', 'home', 'contact', 'email'])}>
+                  <a
+                    href={
+                      'mailto:' +
+                      entry.getIn(['data', 'home', 'contact', 'email'])
+                    }
+                  >
                     {entry.getIn(['data', 'home', 'contact', 'email'])}
                   </a>
                   <br />
@@ -99,7 +112,7 @@ export default class PostPreview extends React.Component {
 
             <article class="paper">
               <header>
-                <h3>Work in Progress and Future Research</h3>
+                <h3>Work in Progress</h3>
               </header>
               {entry.getIn(['data', 'wip']).map(wip => (
                 <p class="wip">{wip.getIn(['title'])}</p>
@@ -149,14 +162,20 @@ export default class PostPreview extends React.Component {
               <br /> {entry.getIn(['data', 'cv', 'secondary_research_fields'])}
               <br />
               <br />
-              <strong>Pre-Doctoral Studies:</strong>
+              <strong>Education:</strong>
               <br />{' '}
-              {entry.getIn(['data', 'cv', 'pre_doctoral_studies']).map(study => (
-                <React.Fragment>
-                  <span dangerouslySetInnerHTML={{ __html: study.getIn(['item']) }} />
-                  <br />
-                </React.Fragment>
-              ))}
+              {entry
+                .getIn(['data', 'cv', 'pre_doctoral_studies'])
+                .map(study => (
+                  <React.Fragment>
+                    <span
+                      dangerouslySetInnerHTML={{
+                        __html: study.getIn(['item'])
+                      }}
+                    />
+                    <br />
+                  </React.Fragment>
+                ))}
             </p>
           </div>
         </section>
