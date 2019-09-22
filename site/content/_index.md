@@ -57,9 +57,10 @@ wip:
   - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
 cv:
   pre_doctoral_studies:
-    - item: 'Master of Research in Economics, LSE (2013)'
-    - item: 'Master of Science in Economics (<em>with distinction</em>), LSE (2012)'
-    - item: 'Bachelor of Science in Economics, University of Bonn (2011)'
+    - item: 'PhD in Economics, London School of Economics (LSE), 2019'
+    - item: 'Master of Research in Economics, LSE, 2013'
+    - item: 'Master of Science in Economics (<em>with distinction</em>), LSE, 2012'
+    - item: 'Bachelor of Science in Economics, University of Bonn, 2011'
   primary_research_fields: International Trade
   secondary_research_fields: 'Economic History, Finance'
 teaching:
