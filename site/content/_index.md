@@ -62,7 +62,7 @@ papers:
       and affiliate productivity is strengthened, when the affiliate is in the
       first level of the corporate hierarchy or when the source country is more
       developed than the destination country in terms of income.
-    link: ''
+    link: 'https://drive.google.com/open?id=1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF'
     title: The Role of Management Practices in Acquisitions and FDI
 wip:
   - title: ' International Trade and Business Cycle Comovement: Causal Evidence '
