@@ -47,12 +47,24 @@ papers:
       instrument is proposed to argue that the correlations described are indeed
       causal. I provide evidence for a fall in trade costs and technology
       adoption as mechanisms to explain the stylized facts observed in the data.
-    headline: Working Paper
+    headline: ''
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
     subtitle: (Revise and resubmit at the Canadian Journal of Economics)
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
+  - description: >-
+      This paper investigates how management practices as intangible assets are
+      associated with performance of multinational business groups. I show that
+      management practices of parents and affiliates are positively correlated.
+      In the cross-section, better parent management practices are positively
+      correlated with affiliate size and productivity. I use acquisitions as an
+      event-study and find that better managed parents decrease employment
+      post-acquisition. The positive correlation of parent management practices
+      and affiliate productivity is strengthened, when the affiliate is in the
+      first level of the corporate hierarchy or when the source country is more
+      developed than the destination country in terms of income.
+    link: 'https://drive.google.com/drive/folders/15lZkOYDKCu2Q3AImoLf6uhLZqwYaKnFZ'
+    title: The Role of Management Practices in Acquisitions and FDI
 wip:
-  - title: The Role of Management Practices in Acquisitions and FDI
   - title: ' International Trade and Business Cycle Comovement: Causal Evidence '
   - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
 cv:
