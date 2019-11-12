@@ -16,19 +16,35 @@ home:
   title: Marcus Biermann
 papers:
   - description: >-
-      We study whether multinational corporations transmit the effects of a
-      localized banking crisis to countries all over the world. We identify an
-      exogenous shock to the credit supply of multinational parent corporations
-      located in Germany. The shock to parents caused a reduction in the sales
-      of their international affiliates for three years. We use unique data on
-      linkages between parents and affiliates to study the transmission
-      mechanism from parents’ credit supply to affiliates’ sales. Both financial
-      constraints and intrafirm trade played a role: Parents withdrew equity
-      from their affiliates, required more long-term lending from the
-      affiliates, and traded less with their affiliates. The results improve our
-      understanding of the internal operations of multinational firms and
-      suggest that multinationals contribute to global business cycle
-      synchronization.
+      We study how internal capital markets of multinational corporations
+      transmit shocks
+
+      across countries. We identify an exogenous shock to the credit supply of
+      multinational
+
+      parents located in Germany. Using detailed data on financial linkages
+      between parents and
+
+      affiliates, we show that multinationals adjusted internal capital flows
+      (internal loans and
+
+      equity investments) away from international affiliates and toward the
+      parent after the shock
+
+      to the parent. Sales of affiliates fell sharply and recovered after three
+      years. Affiliates
+
+      with larger preexisting internal capital market linkages to the parent
+      were more strongly
+
+      affected. A back-of-the-envelope calculation based on our estimates
+      implies that a global
+
+      banking crisis outside the US could reduce aggregate sales in the US by 1
+      percent, solely
+
+      because multinationals transmit the crisis to the US through their
+      internal networks.
     headline: Working Papers
     link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
     subtitle: (with Kilian Huber)
