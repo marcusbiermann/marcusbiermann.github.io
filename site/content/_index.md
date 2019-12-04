@@ -16,35 +16,22 @@ home:
   title: Marcus Biermann
 papers:
   - description: >-
-      We study how internal capital markets of multinational corporations
-      transmit shocks
+      We study how multinational firms transmit shocks across countries through
+      their internal
 
-      across countries. We identify an exogenous shock to the credit supply of
-      multinational
+      capital markets. We identify a lending cut by a single German bank, which
+      reduced the
 
-      parents located in Germany. Using detailed data on financial linkages
-      between parents and
+      credit supply of multinational parents located in Germany. Using detailed
+      data on internal
 
-      affiliates, we show that multinationals adjusted internal capital flows
-      (internal loans and
-
-      equity investments) away from international affiliates and toward the
-      parent after the shock
-
-      to the parent. Sales of affiliates fell sharply and recovered after three
-      years. Affiliates
-
-      with larger preexisting internal capital market linkages to the parent
-      were more strongly
-
-      affected. A back-of-the-envelope calculation based on our estimates
-      implies that a global
-
-      banking crisis outside the US could reduce aggregate sales in the US by 1
-      percent, solely
-
-      because multinationals transmit the crisis to the US through their
-      internal networks.
+      capital markets, we show that multinationals adjusted internal capital
+      flows toward affected parents and away from international affiliates.
+      Affiliate sales fell sharply and recovered after three years. The results
+      indicate that preexisting internal capital market positions can be used to
+      predict the degree of cross-country shock transmission and that
+      idiosyncratic shocks from “granular” banks in one country affect growth
+      internationally.
     headline: Working Papers
     link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
     subtitle: (with Kilian Huber)
