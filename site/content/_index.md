@@ -52,7 +52,7 @@ papers:
       adoption as mechanisms to explain the stylized facts observed in the data.
     headline: ''
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
-    subtitle: (Revise and resubmit at the Canadian Journal of Economics)
+    subtitle: ''
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
   - description: >-
       This paper investigates how management practices as intangible assets are
