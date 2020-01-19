@@ -51,7 +51,7 @@ papers:
       causal. I provide evidence for a fall in trade costs and technology
       adoption as mechanisms to explain the stylized facts observed in the data.
     headline: ''
-    link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
+    link: ''
     subtitle: ''
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
   - description: >-
@@ -65,7 +65,7 @@ papers:
       and affiliate productivity is strengthened, when the affiliate is in the
       first level of the corporate hierarchy or when the source country is more
       developed than the destination country in terms of income.
-    link: 'https://drive.google.com/open?id=1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF'
+    link: ''
     title: The Role of Management Practices in Acquisitions and FDI
 wip:
   - title: ' International Trade and Business Cycle Comovement: Causal Evidence '
