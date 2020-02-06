@@ -39,19 +39,20 @@ papers:
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
   - description: >-
-      What is the effect of supply potential on the size distribution of firms?
-      I collected historical data between 1882 and 1907 from the German Empire
-      to address this question. I can then match two data sets according to the
-      same geographic boundaries: industry census data and bilateral railway
-      trade data. The key findings are that supply potential impacts the firm
-      size distribution heterogeneously across five size categories. I find
-      evidence of a hierarchical and stark shift in employment and firm share
-      from the smallest toward larger firm size categories. A distance
-      instrument is proposed to argue that the correlations described are indeed
-      causal. I provide evidence for a fall in trade costs and technology
-      adoption as mechanisms to explain the stylized facts observed in the data.
+      What is the effect of trade on the size distribution of firms? To answer
+      this question, I
+
+      collected historical data from between 1875 and 1907 from the German
+      Empire. I was then able to match industry census data with bilateral
+      railway trade from the same region and with tariff data from the same
+      industry. I show that plausibly exogenous tariff movements caused a shift
+      in the firm size distribution from medium-sized firms to larger firms. I
+      observed a prominent shift in employment and firm share from smaller to
+      larger firm size categories following increases in trade openness. I use a
+      Bartik instrument to show that the correlations described are indeed
+      causal.
     headline: ''
-    link: ''
+    link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
     subtitle: ''
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
   - description: >-
