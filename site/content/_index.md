@@ -34,7 +34,7 @@ papers:
       internationally.
     headline: Working Papers
     link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
-    subtitle: (with Kilian Huber)
+    subtitle: '(with Kilian Huber), December 2019'
     title: >-
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
@@ -53,7 +53,7 @@ papers:
       causal.
     headline: ''
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
-    subtitle: ''
+    subtitle: May 2020
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
   - description: >-
       This paper investigates how management practices as intangible transfers
@@ -65,8 +65,9 @@ papers:
       decrease affiliates’ employment and increase affiliates’ productivity
       post-acquisition. Bettermanaged parents are also more likely to install or
       retain a manager from the home country post-acquisition.
-    link: ''
-    subtitle: ''
+    link: >-
+      https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
+    subtitle: August 2020
     title: >-
       The Role of Management Practices in Acquisitions and the FDI Location
       Decision
