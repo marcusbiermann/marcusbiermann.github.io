@@ -56,20 +56,22 @@ papers:
     subtitle: ''
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
   - description: >-
-      This paper investigates how management practices as intangible assets are
-      associated with performance of multinational business groups. I show that
-      management practices of parents and affiliates are positively correlated.
-      In the cross-section, better parent management practices are positively
-      correlated with affiliate size and productivity. I use acquisitions as an
-      event-study and find that better managed parents decrease employment
-      post-acquisition. The positive correlation of parent management practices
-      and affiliate productivity is strengthened, when the affiliate is in the
-      first level of the corporate hierarchy or when the source country is more
-      developed than the destination country in terms of income.
-    link: ''
-    title: The Role of Management Practices in Acquisitions and FDI
+      This paper investigates how management practices as intangible transfers
+      are associated with the performance of multinational business groups.
+      Differences in the management level across source countries are predictive
+      for multinationals’ entry patterns for a given destination country. This
+      study uses acquisitions as a means to transplant management practices from
+      parents to affiliates abroad. It finds that better-managed parents
+      decrease affiliates’ employment and increase affiliates’ productivity
+      post-acquisition. Bettermanaged parents are also more likely to install or
+      retain a manager from the home country post-acquisition.
+    link: >-
+      https://drive.google.com/drive/folders/15lZkOYDKCu2Q3AImoLf6uhLZqwYaKnFZ?ths=true
+    subtitle: ''
+    title: >-
+      The Role of Management Practices in Acquisitions and the FDI Location
+      Decision
 wip:
-  - title: ' International Trade and Business Cycle Comovement: Causal Evidence '
   - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
 cv:
   pre_doctoral_studies:
