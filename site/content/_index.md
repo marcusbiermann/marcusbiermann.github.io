@@ -39,21 +39,20 @@ papers:
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
   - description: >-
-      What is the effect of trade on the size distribution of firms? To answer
-      this question, I
-
-      collected historical data from between 1875 and 1907 from the German
-      Empire. I was then able to match industry census data with bilateral
-      railway trade from the same region and with tariff data from the same
-      industry. I show that plausibly exogenous tariff movements caused a shift
-      in the firm size distribution from medium-sized firms to larger firms. I
-      observed a prominent shift in employment and firm share from smaller to
-      larger firm size categories following increases in trade openness. I use a
-      Bartik instrument to show that the correlations described are indeed
-      causal.
+      What effect did trade have on the size distribution of firms during the
+      first wave of globalization? Three historical datasets from the German
+      Empire between 1875 and 1907 were collected and harmonized to answer this
+      question. This paper uses industry census and bilateral railway trade data
+      from the same industry and region along with tariff data from the same
+      industry. The evidence shows that increases in aggregate trade caused the
+      share of firms to shift from smaller to larger firms. Exogenous decreases
+      in tariffs caused an increase in the share of the largest firms. The
+      regional distributive effects of trade on inequality between firms that
+      are discussed in the contemporaneous literature were already present
+      during the first wave globalization.
     headline: ''
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
-    subtitle: May 2020
+    subtitle: August 2020
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
   - description: >-
       This paper investigates how management practices as intangible transfers
