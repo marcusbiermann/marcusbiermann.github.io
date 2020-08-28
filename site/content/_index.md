@@ -62,8 +62,8 @@ papers:
       study uses acquisitions as a means to transplant management practices from
       parents to affiliates abroad. It finds that better-managed parents
       decrease affiliates’ employment and increase affiliates’ productivity
-      post-acquisition. Bettermanaged parents are also more likely to install or
-      retain a manager from the home country post-acquisition.
+      post-acquisition. Better-managed parents are also more likely to install
+      or retain a manager from the home country post-acquisition.
     link: >-
       https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
     subtitle: August 2020
