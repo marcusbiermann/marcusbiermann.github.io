@@ -42,9 +42,9 @@ papers:
       What effect did trade have on the size distribution of firms during the
       first wave of globalization? Three historical datasets from the German
       Empire between 1875 and 1907 were collected and harmonized to answer this
-      question. This paper uses industry census and bilateral railway trade data
-      from the same industry and region along with tariff data from the same
-      industry. The evidence shows that increases in aggregate trade caused the
+      question. This paper combines industry census and bilateral railway trade
+      data from the same industry and region along with industry-level tariff
+      data. The evidence shows that increases in aggregate trade caused the
       share of firms to shift from smaller to larger firms. Exogenous decreases
       in tariffs caused an increase in the share of the largest firms. The
       regional distributive effects of trade on inequality between firms that
@@ -52,7 +52,7 @@ papers:
       during the first wave globalization.
     headline: ''
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
-    subtitle: August 2020
+    subtitle: November 2020
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
   - description: >-
       This paper investigates how management practices as intangible transfers
