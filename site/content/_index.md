@@ -16,25 +16,26 @@ home:
   title: Marcus Biermann
 papers:
   - description: >-
-      We study how multinational firms transmit shocks across countries through
-      their internal
-
-      capital markets. We identify a lending cut by a single German bank, which
-      reduced the
-
-      credit supply of multinational parents located in Germany. Using detailed
-      data on internal
-
-      capital markets, we show that multinationals adjusted internal capital
-      flows toward affected parents and away from international affiliates.
-      Affiliate sales fell sharply and recovered after three years. The results
-      indicate that preexisting internal capital market positions can be used to
-      predict the degree of cross-country shock transmission and that
-      idiosyncratic shocks from “granular” banks in one country affect growth
-      internationally.
+      We show that internal capital markets of multinationals have large real
+      effects and transmit shocks across countries. Our approach combines
+      detailed micro data on internal capital markets with a quasi-experimental
+      research design. Following an exogenous lending cut by a large German bank
+      in 2008/09, parents of German multinationals became financially
+      constrained. We find that affiliates of affected parents increased net
+      lending to their parent after the lending cut. Affiliates were unable to
+      raise external funding and instead had to reduce real activities to
+      finance internal lending. As a result, affiliate sales fell sharply and
+      took three years to fully recover. Effects were largest for affiliates
+      that lent more to the parent and had weak access to external finance.
+      Though the bank lending cut only directly hit firms located in Germany,
+      the impact in other countries was large, due to transmission through
+      multinationals (over 0.3 percent of aggregate sales in Austria, Czech
+      Republic, and Poland). We argue that internal capital flows can affect the
+      distribution of firm growth in most countries, since internal capital
+      markets are large relative to aggregate capital flows and output.
     headline: Working Papers
     link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
-    subtitle: '(with Kilian Huber), December 2019'
+    subtitle: '(with Kilian Huber), December 2020'
     title: >-
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
