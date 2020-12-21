@@ -53,7 +53,7 @@ papers:
       during the first wave globalization.
     headline: ''
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
-    subtitle: November 2020
+    subtitle: December 2020
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
   - description: >-
       This paper investigates how management practices as intangible transfers
