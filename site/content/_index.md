@@ -16,26 +16,23 @@ home:
   title: Marcus Biermann
 papers:
   - description: >-
-      We show that internal capital markets of multinationals have large real
-      effects and transmit shocks across countries. Our approach combines
-      detailed micro data on internal capital markets with a quasi-experimental
-      research design. Following an exogenous lending cut by a large German bank
-      in 2008/09, parents of German multinationals became financially
-      constrained. We find that affiliates of affected parents increased net
-      lending to their parent after the lending cut. Affiliates were unable to
-      raise external funding and instead had to reduce real activities to
-      finance internal lending. As a result, affiliate sales fell sharply and
-      took three years to fully recover. Effects were largest for affiliates
-      that lent more to the parent and had weak access to external finance.
-      Though the bank lending cut only directly hit firms located in Germany,
-      the impact in other countries was large, due to transmission through
-      multinationals (over 0.3 percent of aggregate sales in Austria, Czech
-      Republic, and Poland). We argue that internal capital flows can affect the
-      distribution of firm growth in most countries, since internal capital
-      markets are large relative to aggregate capital flows and output.
+      This paper shows that idiosyncratic shocks to individual firms can affect
+      growth all over the world, even if shocked firms have no direct foreign
+      connections and no operations abroad. We identify an idiosyncratic shock
+      to a German bank, which caused the bank to cut lending to German
+      borrowers. Multinational parent firms located in Germany became
+      financially constrained. In response, international affiliates of affected
+      parents supported their parent by lending through internal capital markets
+      and became constrained themselves. The real growth of affiliates fell
+      sharply and took three years to fully recover. Though the initial shock
+      only hit the domestic activities of a firm in Germany, the impact in other
+      countries was sizable (for instance, around 0.4 percent of aggregate sales
+      in Austria and the Czech Republic). The findings reveal that idiosyncratic
+      shocks to individual firms influence economic outcomes far beyond firms’
+      direct scope of operation.
     headline: Working Papers
     link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
-    subtitle: '(with Kilian Huber), December 2020'
+    subtitle: '(with Kilian Huber), February 2021'
     title: >-
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
