@@ -65,8 +65,7 @@ papers:
       decrease affiliates’ employment and increase affiliates’ productivity
       post-acquisition. Better-managed parents are also more likely to install
       or retain a manager from the home country post-acquisition.
-    link: >-
-      https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
+    link: ''
     subtitle: August 2020
     title: >-
       The Role of Management Practices in Acquisitions and the FDI Location
