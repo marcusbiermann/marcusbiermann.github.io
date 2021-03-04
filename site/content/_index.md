@@ -59,12 +59,14 @@ papers:
       for multinationals’ entry patterns for a given destination country. This
       study uses acquisitions as a means to transplant management practices from
       parents to affiliates abroad. It finds that better-managed parents
-      decrease affiliates’ employment and increase affiliates’ productivity
-      post-acquisition. Better-managed parents are also more likely to install
-      or retain a manager from the home country post-acquisition.
+      decrease employment and increase productivity post-acquisition. The
+      productivity gains are driven by targets with less developed management
+      practices and by targets of larger parents. Better-managed parents are
+      also more likely to install or retain a manager from the home country
+      post-acquisition.
     link: >-
       https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
-    subtitle: August 2020
+    subtitle: March 2021
     title: >-
       The Role of Management Practices in Acquisitions and the FDI Location
       Decision
