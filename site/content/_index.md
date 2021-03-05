@@ -37,22 +37,6 @@ papers:
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
   - description: >-
-      What effect did trade have on the size distribution of firms during the
-      first wave of globalization? Three historical datasets from the German
-      Empire between 1875 and 1907 were collected and harmonized to answer this
-      question. This paper combines industry census and bilateral railway trade
-      data from the same industry and region along with industry-level tariff
-      data. The evidence shows that increases in aggregate trade caused the
-      share of firms to shift from smaller to larger firms. Exogenous decreases
-      in tariffs caused an increase in the share of the largest firms. The
-      regional distributive effects of trade on inequality between firms that
-      are discussed in the contemporaneous literature were already present
-      during the first wave globalization.
-    headline: ''
-    link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
-    subtitle: 'German Economic Review, Forthcoming'
-    title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
-  - description: >-
       This paper investigates how management practices as intangible transfers
       are associated with the performance of multinational business groups.
       Differences in the management level across source countries are predictive
@@ -70,6 +54,22 @@ papers:
     title: >-
       The Role of Management Practices in Acquisitions and the FDI Location
       Decision
+  - description: >-
+      What effect did trade have on the size distribution of firms during the
+      first wave of globalization? Three historical datasets from the German
+      Empire between 1875 and 1907 were collected and harmonized to answer this
+      question. This paper combines industry census and bilateral railway trade
+      data from the same industry and region along with industry-level tariff
+      data. The evidence shows that increases in aggregate trade caused the
+      share of firms to shift from smaller to larger firms. Exogenous decreases
+      in tariffs caused an increase in the share of the largest firms. The
+      regional distributive effects of trade on inequality between firms that
+      are discussed in the contemporaneous literature were already present
+      during the first wave globalization.
+    headline: ''
+    link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
+    subtitle: 'German Economic Review, Forthcoming'
+    title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
 wip:
   - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
 cv:
