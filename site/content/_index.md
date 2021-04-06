@@ -16,26 +16,23 @@ home:
   title: Marcus Biermann
 papers:
   - description: >-
-      This paper shows that idiosyncratic shocks to individual firms can affect
-      growth all over the world, even if shocked firms have no direct foreign
-      connections and no operations abroad. We identify an idiosyncratic shock
-      to a German bank, which caused the bank to cut lending to German
-      borrowers. Multinational parent firms located in Germany became
-      financially constrained. In response, international affiliates of affected
-      parents supported their parent by lending through internal capital markets
-      and became constrained themselves. The real growth of affiliates fell
-      sharply and took three years to fully recover. Though the initial shock
-      only hit the domestic activities of a firm in Germany, the impact in other
-      countries was sizable (for instance, around 0.4 percent of aggregate sales
-      in Austria and the Czech Republic). The findings reveal that idiosyncratic
-      shocks to individual firms influence economic outcomes far beyond firms’
-      direct scope of operation.
+      This paper documents the changing nature of seminars in economics
+      organized by institutions worldwide during the COVID-19 pandemic. The
+      number of seminars held decreased by approximately 20 percent. The
+      composition of seminar speakers changed significantly. Leading top
+      economists in terms of overall output gave relatively fewer seminars,
+      whereas the share of seminars held by top young economists increased. The
+      share of seminars held by women increased in relative terms, but not in
+      absolute terms. Moving from in person seminar delivery to online delivery
+      of seminars caused a significant shift in the geography of knowledge
+      dissemination. The distance between host and speaker institutions
+      increased on average by 20 percent. The share of seminars held across
+      countries’ borders increased modestly by 2.9 percent.
     headline: Working Papers
-    link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
-    subtitle: '(with Kilian Huber), February 2021'
-    title: >-
-      Tracing the International Transmission of a Crisis Through Multinational
-      Firms
+    link: >-
+      https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
+    subtitle: April 2021
+    title: 'Remote Talks: Changes to Economics Seminars during COVID-19'
   - description: >-
       This paper investigates how management practices as intangible transfers
       are associated with the performance of multinational business groups.
@@ -54,6 +51,27 @@ papers:
     title: >-
       The Role of Management Practices in Acquisitions and the FDI Location
       Decision
+  - description: >-
+      This paper shows that idiosyncratic shocks to individual firms can affect
+      growth all over the world, even if shocked firms have no direct foreign
+      connections and no operations abroad. We identify an idiosyncratic shock
+      to a German bank, which caused the bank to cut lending to German
+      borrowers. Multinational parent firms located in Germany became
+      financially constrained. In response, international affiliates of affected
+      parents supported their parent by lending through internal capital markets
+      and became constrained themselves. The real growth of affiliates fell
+      sharply and took three years to fully recover. Though the initial shock
+      only hit the domestic activities of a firm in Germany, the impact in other
+      countries was sizable (for instance, around 0.4 percent of aggregate sales
+      in Austria and the Czech Republic). The findings reveal that idiosyncratic
+      shocks to individual firms influence economic outcomes far beyond firms’
+      direct scope of operation.
+    headline: ''
+    link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
+    subtitle: '(with Kilian Huber), February 2021'
+    title: >-
+      Tracing the International Transmission of a Crisis Through Multinational
+      Firms
   - description: >-
       What effect did trade have on the size distribution of firms during the
       first wave of globalization? Three historical datasets from the German
