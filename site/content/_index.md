@@ -66,7 +66,7 @@ papers:
       in Austria and the Czech Republic). The findings reveal that idiosyncratic
       shocks to individual firms influence economic outcomes far beyond firms’
       direct scope of operation.
-    headline: ''
+    headline: Working Papers
     link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
     subtitle: '(with Kilian Huber), February 2021'
     title: >-
