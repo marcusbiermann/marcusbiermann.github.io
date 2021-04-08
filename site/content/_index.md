@@ -77,7 +77,13 @@ papers:
     title: >-
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
-  - description: >-
+  - alt_links:
+      alt_link_1_title: Forthcoming Article
+      alt_link_1_url: 'https://www.degruyter.com/document/doi/10.1515/ger-2020-0048/html'
+      alt_link_2_title: Data
+      alt_link_2_url: >-
+        https://journaldata.zbw.eu/dataset/trade-and-the-size-distribution-of-firms-evidence-from-the-german-empire
+    description: >-
       What effect did trade have on the size distribution of firms during the
       first wave of globalization? Three historical datasets from the German
       Empire between 1875 and 1907 were collected and harmonized to answer this
