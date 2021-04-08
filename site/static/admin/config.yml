@@ -1,113 +1,156 @@
 backend:
   name: git-gateway
 
-media_folder: 'site/static/img' # Folder where user uploaded files should go
-public_folder: 'img'
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: 'pages'
-    label: 'Pages'
+  - name: "pages"
+    label: "Pages"
     files:
-      - file: 'site/content/_index.md'
-        label: 'Home Page'
-        name: 'home'
+      - file: "site/content/_index.md"
+        label: "Home Page"
+        name: "home"
         fields:
           - {
-              label: 'Home',
+              label: "Home",
               name: home,
               widget: object,
-              fields: [
-                { label: Title, name: title, widget: string },
-                { label: Small Photo, name: small_photo, widget: file },
-                { label: Large Photo, name: large_photo, widget: file },
-                {
-                  label: 'Intro',
-                  name: intro,
-                  widget: object,
-                  fields: [{ label: 'Text', name: 'text', widget: 'text' }],
-                },
-                {
-                  label: 'Locations',
-                  name: locations,
-                  widget: list,
-                  fields: [{ label: 'Text', name: 'text', widget: 'string' }],
-                },
-                { label: 'Job Market Paper', name: job_paper, widget: string },
-                { label: 'CV', name: cv, widget: string },
-                {
-                  label: 'Contact',
-                  name: contact,
-                  widget: object,
-                  fields: [{ label: 'Email', name: 'email', widget: 'string' }],
-                },
-              ],
+              fields:
+                [
+                  { label: Title, name: title, widget: string },
+                  { label: Small Photo, name: small_photo, widget: file },
+                  { label: Large Photo, name: large_photo, widget: file },
+                  {
+                    label: "Intro",
+                    name: intro,
+                    widget: object,
+                    fields: [{ label: "Text", name: "text", widget: "text" }],
+                  },
+                  {
+                    label: "Locations",
+                    name: locations,
+                    widget: list,
+                    fields: [{ label: "Text", name: "text", widget: "string" }],
+                  },
+                  {
+                    label: "Job Market Paper",
+                    name: job_paper,
+                    widget: string,
+                  },
+                  { label: "CV", name: cv, widget: string },
+                  {
+                    label: "Contact",
+                    name: contact,
+                    widget: object,
+                    fields:
+                      [{ label: "Email", name: "email", widget: "string" }],
+                  },
+                ],
             }
           - {
-            label: 'Papers',
-            name: papers,
-            widget: list,
-            fields: [
-              { label: 'Headline', name: 'headline', widget: 'string' },
-              { label: 'Title', name: 'title', widget: 'string' },
-              { label: 'Subtitle', name: 'subtitle', widget: 'string' },
-              { label: 'Link', name: 'link', widget: 'string' },
-              { label: 'Description', name: 'description', widget: 'text' },
-            ],
-          }
+              label: "Papers",
+              name: papers,
+              widget: list,
+              fields:
+                [
+                  { label: "Headline", name: "headline", widget: "string" },
+                  { label: "Title", name: "title", widget: "string" },
+                  { label: "Subtitle", name: "subtitle", widget: "string" },
+                  { label: "Link", name: "link", widget: "string" },
+                  {
+                    label: "Alternate Links",
+                    name: alt_links,
+                    widget: object,
+                    fields:
+                      [
+                        {
+                          label: "Alternate Link 1 Title",
+                          name: "alt_link_1_title",
+                          widget: "string",
+                        },
+                        {
+                          label: "Alternate Link 1 URL",
+                          name: "alt_link_1_url",
+                          widget: "string",
+                        },
+                        {
+                          label: "Alternate Link 2 Title",
+                          name: "alt_link_2_title",
+                          widget: "string",
+                        },
+                        {
+                          label: "Alternate Link 2 URL",
+                          name: "alt_link_2_url",
+                          widget: "string",
+                        },
+                      ],
+                  },
+                  { label: "Description", name: "description", widget: "text" },
+                ],
+            }
           - {
-            label: 'WIP',
-            name: wip,
-            widget: list,
-            fields: [
-              { label: 'Title', name: 'title', widget: 'string' },
-            ],
-          }
+              label: "WIP",
+              name: wip,
+              widget: list,
+              fields: [{ label: "Title", name: "title", widget: "string" }],
+            }
           - {
-              label: 'CV',
+              label: "CV",
               name: cv,
               widget: object,
-              fields: [
-                {
-                  label: 'Primary Research Fields',
-                  name: primary_research_fields,
-                  widget: string
-                },
-                {
-                  label: 'Secondary Research Fields',
-                  name: secondary_research_fields,
-                  widget: string
-                },
-                {
-                  label: 'Education',
-                  name: pre_doctoral_studies,
-                  widget: list,
-                  fields: [
-                    { label: 'Item', name: 'item', widget: 'string' },
-                  ],
-                }
-              ],
+              fields:
+                [
+                  {
+                    label: "Primary Research Fields",
+                    name: primary_research_fields,
+                    widget: string,
+                  },
+                  {
+                    label: "Secondary Research Fields",
+                    name: secondary_research_fields,
+                    widget: string,
+                  },
+                  {
+                    label: "Education",
+                    name: pre_doctoral_studies,
+                    widget: list,
+                    fields: [{ label: "Item", name: "item", widget: "string" }],
+                  },
+                ],
             }
           - {
-              label: 'Teaching',
+              label: "Teaching",
               name: teaching,
               widget: object,
-              fields: [
-                {
-                  label: 'Tables',
-                  name: tables,
-                  widget: list,
-                  fields: [
-                    { label: 'Headline', name: 'headline', widget: 'string' },
-                    {
-                      label: 'Rows',
-                      name: rows,
-                      widget: list,
-                      fields: [
-                        { label: 'Date', name: 'date', widget: 'string' },
-                        { label: 'Title', name: 'title', widget: 'string' },
+              fields:
+                [
+                  {
+                    label: "Tables",
+                    name: tables,
+                    widget: list,
+                    fields:
+                      [
+                        {
+                          label: "Headline",
+                          name: "headline",
+                          widget: "string",
+                        },
+                        {
+                          label: "Rows",
+                          name: rows,
+                          widget: list,
+                          fields:
+                            [
+                              { label: "Date", name: "date", widget: "string" },
+                              {
+                                label: "Title",
+                                name: "title",
+                                widget: "string",
+                              },
+                            ],
+                        },
                       ],
-                    },
-                  ],
-                },
-              ],
+                  },
+                ],
             }

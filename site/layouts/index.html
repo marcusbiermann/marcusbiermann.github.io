@@ -75,7 +75,7 @@
       <h2><span>Research</span></h2>
     </header>
 
-    <h3>Working Paper</h3>
+    <h3>Working Papers</h3>
     {{ range .Params.Papers }}
       <article class="paper">
         <header>
@@ -87,6 +87,17 @@
           </a><br>
           {{ .subtitle }}
         </header>
+
+        {{ if (or (isset .alt_links "alt_link_1_url") (isset .alt_links "alt_link_2_url"))}}
+        <aside>
+          {{ if (isset .alt_links "alt_link_1_url")}}
+            <a href="{{ .alt_links.alt_link_1_url }}" target="_blank">{{ .alt_links.alt_link_1_title }}</a>
+          {{ end }}
+          {{ if (isset .alt_links "alt_link_1_url")}}
+            <a href="{{ .alt_links.alt_link_2_url }}" target="_blank">{{ .alt_links.alt_link_2_title }}</a>
+          {{ end }}
+        </aside>
+        {{end}}
 
         <p>
           {{ .description }}
