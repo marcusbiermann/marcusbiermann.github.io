@@ -16,8 +16,8 @@ home:
   title: Marcus Biermann
 papers:
   - alt_links:
-      alt_link_1_title: Test
-      alt_link_1_url: '#'
+      alt_link_1_title: ''
+      alt_link_1_url: ''
     description: >-
       This paper documents the changing nature of seminars in economics
       organized by institutions worldwide during the COVID-19 pandemic. The
