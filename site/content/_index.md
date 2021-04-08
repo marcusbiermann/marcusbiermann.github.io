@@ -15,7 +15,9 @@ home:
   small_photo: /img/portrait_original.png
   title: Marcus Biermann
 papers:
-  - description: >-
+  - alt_link_1: '#'
+    alt_link_2: ''
+    description: >-
       This paper documents the changing nature of seminars in economics
       organized by institutions worldwide during the COVID-19 pandemic. The
       number of seminars held decreased by approximately 20 percent. The
