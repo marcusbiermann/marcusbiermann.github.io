@@ -88,12 +88,12 @@
           {{ .subtitle }}
         </header>
 
-        {{ if (or (isset .alt_links "alt_link_1_url") (isset .alt_links "alt_link_2_url"))}}
+        {{ if (or (and (isset .alt_links "alt_link_1_url") (not (eq .alt_links.alt_link_1_url ""))) (and (isset .alt_links "alt_link_2_url") (not (eq .alt_links.alt_link_2_url ""))))}}
         <aside>
-          {{ if (isset .alt_links "alt_link_1_url")}}
+          {{ if (and (isset .alt_links "alt_link_1_url") (not (eq .alt_links.alt_link_1_url "")))}}
             <a href="{{ .alt_links.alt_link_1_url }}" target="_blank">{{ .alt_links.alt_link_1_title }}</a>
           {{ end }}
-          {{ if (isset .alt_links "alt_link_1_url")}}
+          {{ if (and (isset .alt_links "alt_link_2_url") (not (eq .alt_links.alt_link_2_url "")))}}
             <a href="{{ .alt_links.alt_link_2_url }}" target="_blank">{{ .alt_links.alt_link_2_title }}</a>
           {{ end }}
         </aside>

@@ -236,6 +236,8 @@ address {
 
 .paper > aside > a {
   font-weight: 500;
+  display: inline-block;
+  margin-right: 10px;
 }
 
 .paper .wip {
