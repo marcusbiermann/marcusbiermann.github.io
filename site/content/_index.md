@@ -39,24 +39,6 @@ papers:
     subtitle: April 2021
     title: 'Remote Talks: Changes to Economics Seminars during COVID-19'
   - description: >-
-      This paper investigates how management practices as intangible transfers
-      are associated with the performance of multinational business groups.
-      Differences in the management level across source countries are predictive
-      for multinationals’ entry patterns for a given destination country. This
-      study uses acquisitions as a means to transplant management practices from
-      parents to affiliates abroad. It finds that better-managed parents
-      decrease employment and increase productivity post-acquisition. The
-      productivity gains are driven by targets with less developed management
-      practices and by targets of larger parents. Better-managed parents are
-      also more likely to install or retain a manager from the home country
-      post-acquisition.
-    link: >-
-      https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
-    subtitle: March 2021
-    title: >-
-      The Role of Management Practices in Acquisitions and the FDI Location
-      Decision
-  - description: >-
       This paper shows that idiosyncratic shocks to individual firms can affect
       growth all over the world, even if shocked firms have no direct foreign
       connections and no operations abroad. We identify an idiosyncratic shock
@@ -77,6 +59,24 @@ papers:
     title: >-
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
+  - description: >-
+      This paper investigates how management practices as intangible transfers
+      are associated with the performance of multinational business groups.
+      Differences in the management level across source countries are predictive
+      for multinationals’ entry patterns for a given destination country. This
+      study uses acquisitions as a means to transplant management practices from
+      parents to affiliates abroad. It finds that better-managed parents
+      decrease employment and increase productivity post-acquisition. The
+      productivity gains are driven by targets with less developed management
+      practices and by targets of larger parents. Better-managed parents are
+      also more likely to install or retain a manager from the home country
+      post-acquisition.
+    link: >-
+      https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
+    subtitle: 'Review of International Economics, Forthcoming'
+    title: >-
+      The Role of Management Practices in Acquisitions and the FDI Location
+      Decision
   - alt_links:
       alt_link_1_title: Forthcoming Article
       alt_link_1_url: 'https://www.degruyter.com/document/doi/10.1515/ger-2020-0048/html'
