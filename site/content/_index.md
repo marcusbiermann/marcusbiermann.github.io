@@ -69,7 +69,7 @@ papers:
       decrease employment and increase productivity post-acquisition. The
       productivity gains are driven by targets with less developed management
       practices and by targets of larger parents. Better-managed parents are
-      also more likely to install or retain a manager from the home country
+      also more likely to install or retain a manager from the parent country
       post-acquisition.
     link: >-
       https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
