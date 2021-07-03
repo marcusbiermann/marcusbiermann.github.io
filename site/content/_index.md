@@ -59,7 +59,10 @@ papers:
     title: >-
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
-  - description: >-
+  - alt_links:
+      alt_link_1_title: Forthcoming Article
+      alt_link_1_url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561'
+    description: >-
       This paper investigates how management practices as intangible transfers
       are associated with the performance of multinational business groups.
       Differences in the management level across source countries are predictive
