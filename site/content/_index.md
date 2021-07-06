@@ -103,6 +103,9 @@ papers:
     subtitle: 'German Economic Review, Forthcoming'
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
 wip:
+  - title: >-
+      Environmental Preferences and Deep Trade Agreements (with Gonzague
+      Vannoorenberghe)
   - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
 cv:
   pre_doctoral_studies:
