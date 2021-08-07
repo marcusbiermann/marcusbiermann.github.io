@@ -100,7 +100,7 @@ papers:
       during the first wave globalization.
     headline: ''
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
-    subtitle: 'German Economic Review, Forthcoming'
+    subtitle: 'German Economic Review, Vol. 22(3), August 2021, pp. 289-322.'
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
 wip:
   - title: >-
