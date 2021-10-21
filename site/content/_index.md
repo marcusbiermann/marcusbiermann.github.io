@@ -62,28 +62,6 @@ papers:
     title: >-
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
-  - alt_links:
-      alt_link_1_title: Article
-      alt_link_1_url: 'https://www.degruyter.com/document/doi/10.1515/ger-2020-0048/html'
-      alt_link_2_title: Data
-      alt_link_2_url: >-
-        https://journaldata.zbw.eu/dataset/trade-and-the-size-distribution-of-firms-evidence-from-the-german-empire
-    description: >-
-      What effect did trade have on the size distribution of firms during the
-      first wave of globalization? Three historical datasets from the German
-      Empire between 1875 and 1907 were collected and harmonized to answer this
-      question. This paper combines industry census and bilateral railway trade
-      data from the same industry and region along with industry-level tariff
-      data. The evidence shows that increases in aggregate trade caused the
-      share of firms to shift from smaller to larger firms. Exogenous decreases
-      in tariffs caused an increase in the share of the largest firms. The
-      regional distributive effects of trade on inequality between firms that
-      are discussed in the contemporaneous literature were already present
-      during the first wave globalization.
-    headline: ''
-    link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
-    subtitle: 'German Economic Review, Vol. 22(3), August 2021, pp. 289-322.'
-    title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
 publications:
   - alt_links:
       alt_link_1_title: Forthcoming Article
@@ -107,6 +85,27 @@ publications:
     title: >-
       The Role of Management Practices in Acquisitions and the FDI Location
       Decision
+  - alt_links:
+      alt_link_1_title: Article
+      alt_link_1_url: 'https://www.degruyter.com/document/doi/10.1515/ger-2020-0048/html'
+      alt_link_2_title: Data
+      alt_link_2_url: >-
+        https://journaldata.zbw.eu/dataset/trade-and-the-size-distribution-of-firms-evidence-from-the-german-empire
+    description: >-
+      What effect did trade have on the size distribution of firms during the
+      first wave of globalization? Three historical datasets from the German
+      Empire between 1875 and 1907 were collected and harmonized to answer this
+      question. This paper combines industry census and bilateral railway trade
+      data from the same industry and region along with industry-level tariff
+      data. The evidence shows that increases in aggregate trade caused the
+      share of firms to shift from smaller to larger firms. Exogenous decreases
+      in tariffs caused an increase in the share of the largest firms. The
+      regional distributive effects of trade on inequality between firms that
+      are discussed in the contemporaneous literature were already present
+      during the first wave globalization.
+    link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
+    subtitle: 'German Economic Review, Vol. 22(3), August 2021, pp. 289-322.'
+    title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire'
 wip:
   - title: >-
       Environmental Preferences and Deep Trade Agreements (with Gonzague
