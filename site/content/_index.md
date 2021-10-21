@@ -9,7 +9,7 @@ home:
       I obtained my PhD from the LSE and I am affiliated with the Centre for
       Economic Performance. My primary research field is international trade. My
       secondary research interests are in financial economics.
-  job_paper: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
+  job_paper: ''
   job_paper_2: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
   large_photo: /img/portrait_original.png
   locations:
