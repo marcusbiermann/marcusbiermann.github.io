@@ -118,7 +118,7 @@ cv:
     - item: 'Master of Science in Economics (<em>with distinction</em>), LSE, 2012'
     - item: 'Bachelor of Science in Economics, University of Bonn, 2011'
   primary_research_fields: International Trade
-  secondary_research_fields: 'Economic History, Finance'
+  secondary_research_fields: Financial Economics
 teaching:
   tables:
     - headline: London School of Economics
