@@ -38,6 +38,11 @@ collections: # A list of collections the CMS should be able to edit
                     name: job_paper,
                     widget: string,
                   },
+                  {
+                    label: "Job Market Paper 2",
+                    name: job_paper_2,
+                    widget: string,
+                  },
                   { label: "CV", name: cv, widget: string },
                   {
                     label: "Contact",
@@ -51,6 +56,47 @@ collections: # A list of collections the CMS should be able to edit
           - {
               label: "Papers",
               name: papers,
+              widget: list,
+              fields:
+                [
+                  { label: "Headline", name: "headline", widget: "string" },
+                  { label: "Title", name: "title", widget: "string" },
+                  { label: "Subtitle", name: "subtitle", widget: "string" },
+                  { label: "Link", name: "link", widget: "string" },
+                  {
+                    label: "Alternate Links",
+                    name: alt_links,
+                    widget: object,
+                    fields:
+                      [
+                        {
+                          label: "Alternate Link 1 Title",
+                          name: "alt_link_1_title",
+                          widget: "string",
+                        },
+                        {
+                          label: "Alternate Link 1 URL",
+                          name: "alt_link_1_url",
+                          widget: "string",
+                        },
+                        {
+                          label: "Alternate Link 2 Title",
+                          name: "alt_link_2_title",
+                          widget: "string",
+                        },
+                        {
+                          label: "Alternate Link 2 URL",
+                          name: "alt_link_2_url",
+                          widget: "string",
+                        },
+                      ],
+                  },
+                  { label: "Description", name: "description", widget: "text" },
+                ],
+            }
+          - {
+              label: "Publications",
+              name: publications,
               widget: list,
               fields:
                 [

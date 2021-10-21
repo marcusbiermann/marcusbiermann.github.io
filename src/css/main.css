@@ -75,6 +75,11 @@ a {
   text-decoration: none;
 }
 
+summary {
+  font-weight: 600;
+  cursor: pointer;
+}
+
 a:before {
   position: absolute;
   right: 0;
@@ -307,5 +312,12 @@ address {
 .download {
   display: block;
   width: 100%;
-  text-align: center;
+}
+
+.download > a {
+  display: inline-block;
+}
+
+.download > a:not(:last-child) {
+  margin-bottom: 12px;
 }

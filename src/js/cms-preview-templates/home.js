@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export default class PostPreview extends React.Component {
   render() {
@@ -11,36 +11,38 @@ export default class PostPreview extends React.Component {
             <div class="columns">
               <header class="header">
                 <a
-                  href={getAsset(entry.getIn(['data', 'home', 'large_photo']))}
+                  href={getAsset(entry.getIn(["data", "home", "large_photo"]))}
                   target="_blank"
                 >
                   <img
                     width="200"
-                    src={getAsset(entry.getIn(['data', 'home', 'small_photo']))}
+                    src={getAsset(entry.getIn(["data", "home", "small_photo"]))}
                     alt="Portrait: Marcus Biermann"
                   />
                 </a>
               </header>
 
               <div>
-                <h1>{entry.getIn(['data', 'home', 'title'])}</h1>
+                <h1>{entry.getIn(["data", "home", "title"])}</h1>
                 <p>
                   <strong>
-                    {entry.getIn(['data', 'home', 'intro', 'text'])}
+                    {entry.getIn(["data", "home", "intro", "text"])}
                   </strong>
                 </p>
 
                 <h3>I am available for interviews at</h3>
 
                 <ul>
-                  {entry.getIn(['data', 'home', 'locations']).map(location => (
-                    <li>{location.getIn(['text'])}</li>
-                  ))}
+                  {entry
+                    .getIn(["data", "home", "locations"])
+                    .map((location) => (
+                      <li>{location.getIn(["text"])}</li>
+                    ))}
                 </ul>
 
                 <p class="download">
                   <a
-                    href={entry.getIn(['data', 'home', 'job_paper'])}
+                    href={entry.getIn(["data", "home", "job_paper"])}
                     target="_blank"
                   >
                     <svg
@@ -61,18 +63,43 @@ export default class PostPreview extends React.Component {
                     </svg>
                     Download Job Market Paper
                   </a>
+
+                  <br />
+
+                  <a
+                    href={entry.getIn(["data", "home", "job_paper_2"])}
+                    target="_blank"
+                  >
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      class="icon"
+                      width="24"
+                      height="24"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-width="2"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    >
+                      <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                      <polyline points="7 10 12 15 17 10" />
+                      <line x1="12" y1="15" x2="12" y2="3" />
+                    </svg>
+                    Download Job Market Paper 2
+                  </a>
                 </p>
 
                 <h3>Contact</h3>
                 <address>
-                  email:{' '}
+                  email:{" "}
                   <a
                     href={
-                      'mailto:' +
-                      entry.getIn(['data', 'home', 'contact', 'email'])
+                      "mailto:" +
+                      entry.getIn(["data", "home", "contact", "email"])
                     }
                   >
-                    {entry.getIn(['data', 'home', 'contact', 'email'])}
+                    {entry.getIn(["data", "home", "contact", "email"])}
                   </a>
                   <br />
                   Department of Economics
@@ -96,17 +123,34 @@ export default class PostPreview extends React.Component {
               </h2>
             </header>
 
-            {entry.getIn(['data', 'papers']).map(paper => (
+            {entry.getIn(["data", "papers"]).map((paper) => (
               <article class="paper">
                 <header>
-                  <h3>{paper.getIn(['headline'])}</h3>
-                  <a href={paper.getIn(['link'])} target="_blank">
-                    <span>{paper.getIn(['title'])}</span>
+                  <h3>{paper.getIn(["headline"])}</h3>
+                  <a href={paper.getIn(["link"])} target="_blank">
+                    <span>{paper.getIn(["title"])}</span>
                   </a>
                   <br />
-                  {paper.getIn(['subtitle'])}
+                  {paper.getIn(["subtitle"])}
                 </header>
-                <p>{paper.getIn(['description'])}</p>
+                <p>{paper.getIn(["description"])}</p>
+              </article>
+            ))}
+
+            {entry.getIn(["data", "publications"]).map((publication) => (
+              <article class="paper publication">
+                <header>
+                  <h3>{publication.getIn(["headline"])}</h3>
+                  <a href={publication.getIn(["link"])} target="_blank">
+                    <span>{publication.getIn(["title"])}</span>
+                  </a>
+                  <br />
+                  {publication.getIn(["subtitle"])}
+                </header>
+                <details>
+                  <summary>Abstract</summary>
+                  <p>{publication.getIn(["description"])}</p>
+                </details>
               </article>
             ))}
 
@@ -114,8 +158,8 @@ export default class PostPreview extends React.Component {
               <header>
                 <h3>Work in Progress</h3>
               </header>
-              {entry.getIn(['data', 'wip']).map(wip => (
-                <p class="wip">{wip.getIn(['title'])}</p>
+              {entry.getIn(["data", "wip"]).map((wip) => (
+                <p class="wip">{wip.getIn(["title"])}</p>
               ))}
             </article>
           </div>
@@ -130,7 +174,7 @@ export default class PostPreview extends React.Component {
             </header>
 
             <p class="download">
-              <a href={entry.getIn(['data', 'home', 'cv'])} target="_blank">
+              <a href={entry.getIn(["data", "home", "cv"])} target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   class="icon"
@@ -155,22 +199,22 @@ export default class PostPreview extends React.Component {
 
             <p>
               <strong>Primary Research Field:</strong>
-              <br /> {entry.getIn(['data', 'cv', 'primary_research_fields'])}
+              <br /> {entry.getIn(["data", "cv", "primary_research_fields"])}
               <br />
               <br />
               <strong>Secondary Research Fields:</strong>
-              <br /> {entry.getIn(['data', 'cv', 'secondary_research_fields'])}
+              <br /> {entry.getIn(["data", "cv", "secondary_research_fields"])}
               <br />
               <br />
               <strong>Education:</strong>
-              <br />{' '}
+              <br />{" "}
               {entry
-                .getIn(['data', 'cv', 'pre_doctoral_studies'])
-                .map(study => (
+                .getIn(["data", "cv", "pre_doctoral_studies"])
+                .map((study) => (
                   <React.Fragment>
                     <span
                       dangerouslySetInnerHTML={{
-                        __html: study.getIn(['item'])
+                        __html: study.getIn(["item"]),
                       }}
                     />
                     <br />
@@ -188,16 +232,16 @@ export default class PostPreview extends React.Component {
               </h2>
             </header>
 
-            {entry.getIn(['data', 'teaching', 'tables']).map(table => (
+            {entry.getIn(["data", "teaching", "tables"]).map((table) => (
               <React.Fragment>
-                <h3>{table.getIn(['headline'])}</h3>
+                <h3>{table.getIn(["headline"])}</h3>
 
                 <table class="timetable">
                   <tbody>
-                    {table.getIn(['rows']).map(row => (
+                    {table.getIn(["rows"]).map((row) => (
                       <tr>
-                        <td>{row.getIn(['date'])}</td>
-                        <td>{row.getIn(['title'])}</td>
+                        <td>{row.getIn(["date"])}</td>
+                        <td>{row.getIn(["title"])}</td>
                       </tr>
                     ))}
                   </tbody>
