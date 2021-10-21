@@ -10,6 +10,7 @@ home:
       Economic Performance. My primary research field is international trade. My
       secondary research interests are in financial economics.
   job_paper: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
+  job_paper_2: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
   large_photo: /img/portrait_original.png
   locations:
     - text: 'at the EJME, 2021'
@@ -104,6 +105,9 @@ papers:
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
     subtitle: 'German Economic Review, Vol. 22(3), August 2021, pp. 289-322.'
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
+publications:
+  - headline: Oublications
+    title: '-'
 wip:
   - title: >-
       Environmental Preferences and Deep Trade Agreements (with Gonzague
