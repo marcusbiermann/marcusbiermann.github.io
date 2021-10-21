@@ -63,27 +63,6 @@ papers:
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
   - alt_links:
-      alt_link_1_title: Forthcoming Article
-      alt_link_1_url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561'
-    description: >-
-      This paper investigates how management practices as intangible transfers
-      are associated with the performance of multinational business groups.
-      Differences in the management level across source countries are predictive
-      for multinationals’ entry patterns for a given destination country. This
-      study uses acquisitions as a means to transplant management practices from
-      parents to affiliates abroad. It finds that better-managed parents
-      decrease employment and increase productivity post-acquisition. The
-      productivity gains are driven by targets with less developed management
-      practices and by targets of larger parents. Better-managed parents are
-      also more likely to install or retain a manager from the parent country
-      post-acquisition.
-    link: >-
-      https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
-    subtitle: 'Review of International Economics, Forthcoming'
-    title: >-
-      The Role of Management Practices in Acquisitions and the FDI Location
-      Decision
-  - alt_links:
       alt_link_1_title: Article
       alt_link_1_url: 'https://www.degruyter.com/document/doi/10.1515/ger-2020-0048/html'
       alt_link_2_title: Data
@@ -106,8 +85,28 @@ papers:
     subtitle: 'German Economic Review, Vol. 22(3), August 2021, pp. 289-322.'
     title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
 publications:
-  - headline: Oublications
-    title: '-'
+  - alt_links:
+      alt_link_1_title: Forthcoming Article
+      alt_link_1_url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561'
+    description: >-
+      This paper investigates how management practices as intangible transfers
+      are associated with the performance of multinational business groups.
+      Differences in the management level across source countries are predictive
+      for multinationals’ entry patterns for a given destination country. This
+      study uses acquisitions as a means to transplant management practices from
+      parents to affiliates abroad. It finds that better-managed parents
+      decrease employment and increase productivity post-acquisition. The
+      productivity gains are driven by targets with less developed management
+      practices and by targets of larger parents. Better-managed parents are
+      also more likely to install or retain a manager from the parent country
+      post-acquisition.
+    headline: Publications
+    link: >-
+      https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
+    subtitle: 'Review of International Economics, Forthcoming'
+    title: >-
+      The Role of Management Practices in Acquisitions and the FDI Location
+      Decision
 wip:
   - title: >-
       Environmental Preferences and Deep Trade Agreements (with Gonzague
