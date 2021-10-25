@@ -9,7 +9,7 @@ home:
       I obtained my PhD from the LSE and I am affiliated with the Centre for
       Economic Performance. My primary research field is international trade. My
       secondary research interests are in financial economics.
-  job_paper: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
+  job_paper: ''
   job_paper_2: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
   large_photo: /img/portrait_original.png
   locations:
@@ -62,6 +62,7 @@ papers:
     title: >-
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
+publications:
   - alt_links:
       alt_link_1_title: Forthcoming Article
       alt_link_1_url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561'
@@ -77,6 +78,7 @@ papers:
       practices and by targets of larger parents. Better-managed parents are
       also more likely to install or retain a manager from the parent country
       post-acquisition.
+    headline: Publications
     link: >-
       https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
     subtitle: 'Review of International Economics, Forthcoming'
@@ -101,13 +103,9 @@ papers:
       regional distributive effects of trade on inequality between firms that
       are discussed in the contemporaneous literature were already present
       during the first wave globalization.
-    headline: ''
     link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
     subtitle: 'German Economic Review, Vol. 22(3), August 2021, pp. 289-322.'
-    title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire '
-publications:
-  - headline: Oublications
-    title: '-'
+    title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire'
 wip:
   - title: >-
       Environmental Preferences and Deep Trade Agreements (with Gonzague
@@ -120,7 +118,7 @@ cv:
     - item: 'Master of Science in Economics (<em>with distinction</em>), LSE, 2012'
     - item: 'Bachelor of Science in Economics, University of Bonn, 2011'
   primary_research_fields: International Trade
-  secondary_research_fields: 'Economic History, Finance'
+  secondary_research_fields: Financial Economics
 teaching:
   tables:
     - headline: London School of Economics
