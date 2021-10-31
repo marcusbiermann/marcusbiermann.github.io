@@ -9,7 +9,8 @@ home:
       I obtained my PhD from the LSE and I am affiliated with the Centre for
       Economic Performance. My primary research field is international trade. My
       secondary research interests are in financial economics.
-  job_paper: ''
+  job_paper: >-
+    https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
   job_paper_2: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
   large_photo: /img/portrait_original.png
   locations:
@@ -24,22 +25,23 @@ papers:
       alt_link_2_title: ''
       alt_link_2_url: ''
     description: >-
-      This paper documents the changing nature of seminars in economics
-      organized by institutions worldwide during the COVID-19 pandemic. The
-      number of seminars held decreased by approximately 20 percent. The
-      composition of seminar speakers changed significantly. Leading top
-      economists in terms of overall output gave relatively fewer seminars,
-      whereas the share of seminars held by top young economists increased. The
-      share of seminars held by women increased in relative terms, but not in
-      absolute terms. Moving from in person seminar delivery to online delivery
-      of seminars caused a significant shift in the geography of knowledge
-      dissemination. The distance between host and speaker institutions
-      increased on average by 20 percent. The share of seminars held across
-      countries’ borders increased modestly by 2.9 percent.
+      This paper analyzes the equilibrium consequences of the change in the
+      presentation mode of seminars in economics triggered by the COVID-19
+      pandemic. Following the technology shock, the number of seminars held
+      decreased by approximately 12 percent as seminars went from in person to
+      online presentations. The composition of seminar speakers changed
+      significantly. Three proxies of speakers’ quality suggest that leading top
+      economists gained shares. The share of seminars held by women increased.
+      The geography of knowledge dissemination shifted significantly as the
+      distance between host and speaker institutions increased on average by 32
+      percent. The growing inequality in presentations among speakers is
+      correlated with an increase in inequality in terms of citations. The
+      results imply that working from home instead of travelling can decrease
+      gender-specific inequality and increase inequality by productivity. 
     headline: Working Papers
     link: >-
       https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
-    subtitle: April 2021
+    subtitle: 'October 2021, full paper coming soon'
     title: 'Remote Talks: Changes to Economics Seminars during COVID-19'
   - description: >-
       This paper shows that idiosyncratic shocks to individual firms can affect
