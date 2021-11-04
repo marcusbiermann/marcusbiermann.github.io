@@ -25,24 +25,24 @@ papers:
       alt_link_2_title: ''
       alt_link_2_url: ''
     description: >-
-      This paper analyzes the equilibrium consequences of the change in the
-      presentation mode of seminars in economics triggered by the COVID-19
-      pandemic. Following the technology shock, the number of seminars held
-      decreased by approximately 12 percent as seminars went from in person to
-      online presentations. The composition of seminar speakers changed
-      significantly. Three proxies of speakers’ quality suggest that leading top
-      economists gained shares. The share of seminars held by women increased.
-      The geography of knowledge dissemination shifted significantly as the
-      distance between host and speaker institutions increased on average by 32
-      percent. The growing inequality in presentations among speakers is
-      correlated with an increase in inequality in terms of citations. The
-      results imply that working from home instead of travelling can decrease
-      gender-specific inequality and increase inequality by productivity. 
+      This paper analyzes the consequences of the change in the presentation
+      mode of seminars in economics triggered by the COVID-19 pandemic.
+      Following the technology shock, the number of seminars held decreased by
+      approximately 12 percent as seminars went from in person to online
+      presentations. The composition of seminar speakers changed significantly.
+      Three proxies of speakers’ quality suggest that leading top economists
+      gained shares. The share of seminars held by women increased. The
+      geography of knowledge dissemination shifted significantly as the distance
+      between host and speaker institutions increased on average by 32 percent.
+      The growing inequality in presentations among speakers is correlated with
+      an increase in inequality in terms of citations. The results imply that
+      working from home instead of travelling can decrease gender-specific
+      inequality and increase inequality by productivity. 
     headline: Working Papers
     link: >-
       https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     subtitle: 'October 2021, full paper coming soon'
-    title: 'Remote Talks: Changes to Economics Seminars during COVID-19'
+    title: 'Remote Talks: How ICT Changed Economics Seminars During COVID-19'
   - description: >-
       This paper shows that idiosyncratic shocks to individual firms can affect
       growth all over the world, even if shocked firms have no direct foreign
