@@ -20,8 +20,8 @@ home:
   title: Marcus Biermann
 papers:
   - alt_links:
-      alt_link_1_title: CEP DP No. 1759
-      alt_link_1_url: 'https://cep.lse.ac.uk/pubs/download/dp1759.pdf'
+      alt_link_1_title: ''
+      alt_link_1_url: ''
       alt_link_2_title: ''
       alt_link_2_url: ''
     description: >-
@@ -41,7 +41,7 @@ papers:
     headline: Working Papers
     link: >-
       https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
-    subtitle: 'October 2021, full paper coming soon'
+    subtitle: 'November, 2021'
     title: 'Remote Talks: How ICT Changed Economics Seminars During COVID-19'
   - description: >-
       This paper shows that idiosyncratic shocks to individual firms can affect
