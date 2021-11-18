@@ -20,8 +20,8 @@ home:
   title: Marcus Biermann
 papers:
   - alt_links:
-      alt_link_1_title: ''
-      alt_link_1_url: ''
+      alt_link_1_title: CEP DP No. 1759
+      alt_link_1_url: 'https://cep.lse.ac.uk/pubs/download/dp1759.pdf'
       alt_link_2_title: ''
       alt_link_2_url: ''
     description: >-
