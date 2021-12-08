@@ -22,8 +22,9 @@ papers:
   - alt_links:
       alt_link_1_title: CEP DP No. 1759
       alt_link_1_url: 'https://cep.lse.ac.uk/pubs/download/dp1759.pdf'
-      alt_link_2_title: ''
-      alt_link_2_url: ''
+      alt_link_2_title: 'Coverage: LSE Blog'
+      alt_link_2_url: >-
+        https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
     description: >-
       This paper analyzes the consequences of the change in the presentation
       mode of seminars in economics triggered by the COVID-19 pandemic.
