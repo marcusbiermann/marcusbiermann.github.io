@@ -84,7 +84,7 @@ publications:
     headline: Publications
     link: >-
       https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
-    subtitle: 'Review of International Economics, Forthcoming'
+    subtitle: 'Review of International Economics, Vol. 30(1), February 2022, pp. 137-165.'
     title: >-
       The Role of Management Practices in Acquisitions and the FDI Location
       Decision
