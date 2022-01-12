@@ -67,7 +67,7 @@ papers:
       Firms
 publications:
   - alt_links:
-      alt_link_1_title: Forthcoming Article
+      alt_link_1_title: Article
       alt_link_1_url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561'
     description: >-
       This paper investigates how management practices as intangible transfers
