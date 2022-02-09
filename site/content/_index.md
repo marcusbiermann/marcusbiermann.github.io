@@ -42,7 +42,7 @@ papers:
     headline: Working Papers
     link: >-
       https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
-    subtitle: 'November, 2021'
+    subtitle: 'February, 2022'
     title: 'Remote Talks: How ICT Changed Economics Seminars During COVID-19'
   - description: >-
       This paper shows that idiosyncratic shocks to individual firms can affect
