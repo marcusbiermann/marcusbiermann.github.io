@@ -2,7 +2,7 @@ import React from "react";
 
 export default class PostPreview extends React.Component {
   render() {
-    const { entry, getAsset } = this.props;
+    const {entry, getAsset} = this.props;
 
     return (
       <div>
