@@ -1,22 +1,11 @@
-import React from 'react';
-import CMS from 'netlify-cms';
+import React from "react";
+import CMS from "netlify-cms-app";
 
-import HomePreview from './cms-preview-templates/home';
+// Import main site styles as a string to inject into the CMS preview pane
+import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../css/main.css";
 
-// Example of creating a custom color widget
-class ColorControl extends React.Component {
-  render() {
-    return (
-      <input
-        style={{ height: '80px' }}
-        type="color"
-        value={this.props.value}
-        onInput={e => this.props.onChange(e.target.value)}
-      />
-    );
-  }
-}
+import HomePreview from "./cms-preview-templates/home";
 
-CMS.registerPreviewStyle('/css/main.css');
-CMS.registerPreviewTemplate('home', HomePreview);
-CMS.registerWidget('color', ColorControl);
+CMS.registerPreviewStyle(styles, { raw: true });
+CMS.registerPreviewTemplate("home", HomePreview);
+CMS.init();

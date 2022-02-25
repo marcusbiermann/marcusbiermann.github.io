@@ -1,21 +1,32 @@
 <head>
+  <title>{{ $.Site.Title }}</title>
 
-	<title>Marcus Biermann</title>
-	<link rel="stylesheet" href="/css/main.css" />
+  {{ $stylesheet := .Site.Data.webpack.main }} {{ with $stylesheet.css }}
+  <link href="{{ relURL . }}" rel="stylesheet" />
+  {{ end }}
 
-	<meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, viewport-fit=cover"
+  />
+  <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv
+  "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{
+  $.Site.BaseURL }}{{ end }}">
 
-	<link href="https://fonts.googleapis.com/css?family=Vollkorn:600,600i"
-        rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,600i"
-				rel="stylesheet">
-				
-	<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@14/dist/smooth-scroll.polyfills.min.js"></script>
-  <script>
-    var scroll = new SmoothScroll('a[href*="#"]');
-  </script>
+  <link
+    href="https://fonts.googleapis.com/css?family=Vollkorn:600,600i"
+    rel="stylesheet"
+  />
+  <link
+    href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,600i"
+    rel="stylesheet"
+  />
 
-	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <meta name="theme-color" content="#fff" />
+
+  {{ if .IsHome }}
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {{ end }}
 </head>

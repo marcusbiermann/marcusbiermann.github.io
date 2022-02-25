@@ -2,7 +2,7 @@
 home:
   contact:
     email: marcus.biermann@uclouvain.be
-  cv: 'https://drive.google.com/open?id=14Scl3GwyI0ojuLoPhkom_WS4dWys9jGE'
+  cv: "https://drive.google.com/open?id=14Scl3GwyI0ojuLoPhkom_WS4dWys9jGE"
   intro:
     text: >-
       I am a postdoctoral researcher at IRES, Université catholique de Louvain.
@@ -11,18 +11,18 @@ home:
       secondary research interests are in financial economics.
   job_paper: >-
     https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
-  job_paper_2: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
+  job_paper_2: "https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc"
   large_photo: /img/portrait_original.png
   locations:
-    - text: 'at the EJME, 2021'
-    - text: 'at the ASSA meetings, 2022'
+    - text: "at the EJME, 2021"
+    - text: "at the ASSA meetings, 2022"
   small_photo: /img/portrait_original.png
   title: Marcus Biermann
 papers:
   - alt_links:
       alt_link_1_title: CEP DP No. 1759
-      alt_link_1_url: 'https://cep.lse.ac.uk/pubs/download/dp1759.pdf'
-      alt_link_2_title: 'Coverage: LSE Blog'
+      alt_link_1_url: "https://cep.lse.ac.uk/pubs/download/dp1759.pdf"
+      alt_link_2_title: "Coverage: LSE Blog"
       alt_link_2_url: >-
         https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
     description: >-
@@ -38,12 +38,12 @@ papers:
       The growing inequality in presentations among speakers is correlated with
       an increase in inequality in terms of citations. The results imply that
       working from home instead of travelling can decrease gender-specific
-      inequality and increase inequality by productivity. 
+      inequality and increase inequality by productivity.
     headline: Working Papers
     link: >-
       https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
-    subtitle: 'February, 2022'
-    title: 'Remote Talks: How ICT Changed Economics Seminars During COVID-19'
+    subtitle: "February, 2022"
+    title: "Remote Talks: How ICT Changed Economics Seminars During COVID-19"
   - description: >-
       This paper shows that idiosyncratic shocks to individual firms can affect
       growth all over the world, even if shocked firms have no direct foreign
@@ -59,16 +59,16 @@ papers:
       in Austria and the Czech Republic). The findings reveal that idiosyncratic
       shocks to individual firms influence economic outcomes far beyond firms’
       direct scope of operation.
-    headline: ''
-    link: 'https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc'
-    subtitle: '(with Kilian Huber), February 2021'
+    headline: ""
+    link: "https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc"
+    subtitle: "(with Kilian Huber), February 2021"
     title: >-
       Tracing the International Transmission of a Crisis Through Multinational
       Firms
 publications:
   - alt_links:
       alt_link_1_title: Article
-      alt_link_1_url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561'
+      alt_link_1_url: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561"
     description: >-
       This paper investigates how management practices as intangible transfers
       are associated with the performance of multinational business groups.
@@ -84,13 +84,13 @@ publications:
     headline: Publications
     link: >-
       https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
-    subtitle: 'Review of International Economics, Vol. 30(1), February 2022, pp. 137-165.'
+    subtitle: "Review of International Economics, Vol. 30(1), February 2022, pp. 137-165."
     title: >-
       The Role of Management Practices in Acquisitions and the FDI Location
       Decision
   - alt_links:
       alt_link_1_title: Article
-      alt_link_1_url: 'https://www.degruyter.com/document/doi/10.1515/ger-2020-0048/html'
+      alt_link_1_url: "https://www.degruyter.com/document/doi/10.1515/ger-2020-0048/html"
       alt_link_2_title: Data
       alt_link_2_url: >-
         https://journaldata.zbw.eu/dataset/trade-and-the-size-distribution-of-firms-evidence-from-the-german-empire
@@ -106,9 +106,9 @@ publications:
       regional distributive effects of trade on inequality between firms that
       are discussed in the contemporaneous literature were already present
       during the first wave globalization.
-    link: 'https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw'
-    subtitle: 'German Economic Review, Vol. 22(3), August 2021, pp. 289-322.'
-    title: 'Trade and the Size Distribution of Firms: Evidence from the German Empire'
+    link: "https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw"
+    subtitle: "German Economic Review, Vol. 22(3), August 2021, pp. 289-322."
+    title: "Trade and the Size Distribution of Firms: Evidence from the German Empire"
 wip:
   - title: >-
       Environmental Preferences and Deep Trade Agreements (with Gonzague
@@ -116,10 +116,10 @@ wip:
   - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
 cv:
   pre_doctoral_studies:
-    - item: 'PhD in Economics, London School of Economics (LSE), 2019'
-    - item: 'Master of Research in Economics, LSE, 2013'
-    - item: 'Master of Science in Economics (<em>with distinction</em>), LSE, 2012'
-    - item: 'Bachelor of Science in Economics, University of Bonn, 2011'
+    - item: "PhD in Economics, London School of Economics (LSE), 2019"
+    - item: "Master of Research in Economics, LSE, 2013"
+    - item: "Master of Science in Economics (<em>with distinction</em>), LSE, 2012"
+    - item: "Bachelor of Science in Economics, University of Bonn, 2011"
   primary_research_fields: International Trade
   secondary_research_fields: Financial Economics
 teaching:
@@ -127,11 +127,11 @@ teaching:
     - headline: London School of Economics
       rows:
         - date: 2017-2018
-          title: 'International Economics (EC421), MSc course'
-        - date: '2016'
-          title: 'International Economics (EC351), Summer school'
-        - date: '2013-2014, 2015-2017'
-          title: 'International Economics (EC315), 3rd-year undergraduate level'
+          title: "International Economics (EC421), MSc course"
+        - date: "2016"
+          title: "International Economics (EC351), Summer school"
+        - date: "2013-2014, 2015-2017"
+          title: "International Economics (EC315), 3rd-year undergraduate level"
     - headline: Teaching Certification
       rows:
         - date: 2016-2017
@@ -141,4 +141,3 @@ teaching:
         - date: 2010-2011
           title: Statistics and Econometrics (undergraduate)
 ---
-
