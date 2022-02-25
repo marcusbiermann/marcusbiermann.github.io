@@ -4,52 +4,50 @@
   <div>
     <div class="columns">
       <header class="header">
-        <a href="img/portrait_original.png"
-            target="_blank"><img width="200"
-                src="img/portrait.jpg"
-                alt="Portrait: Marcus Biermann"></a>
+        <a href="img/portrait_original.png" target="_blank"
+          ><img
+            width="200"
+            src="img/portrait.jpg"
+            alt="Portrait: Marcus Biermann"
+        /></a>
       </header>
 
       <div>
         <h1>{{ .Params.Home.Title }}</h1>
         <p>
-          <strong>
-            {{ .Params.Home.Intro.Text }}
-          </strong>
+          <strong> {{ .Params.Home.Intro.Text }} </strong>
         </p>
 
-        <h3>I am available for interviews</h3>
+        <!-- <h3>I am available for interviews</h3>
 
         <ul>
           {{ range .Params.Home.Locations }}
             <li>{{ .text }}</li>
           {{ end }}
-        </ul>
+        </ul> -->
 
         <p class="download">
-          <a href="{{ .Params.Home.Cv }}"
-              target="_blank">
-              <svg xmlns="http://www.w3.org/2000/svg"
-                  class="icon"
-                  width="24"
-                  height="24"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round">
+          <a href="{{ .Params.Home.Cv }}" target="_blank">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="icon"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
               <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
               <polyline points="7 10 12 15 17 10"></polyline>
-              <line x1="12"
-                    y1="15"
-                    x2="12"
-                    y2="3"></line>
+              <line x1="12" y1="15" x2="12" y2="3"></line>
             </svg>
             Download CV
           </a>
 
-          <br />
+          <!-- <br />
 
           <a href="{{ .Params.Home.Job_paper }}"
               target="_blank">
@@ -95,18 +93,18 @@
                     y2="3"></line>
             </svg>
             Download Job Market Paper 2
-          </a>
+          </a> -->
         </p>
 
         <h3>Contact</h3>
         <address>
           email:
           <a href="mailto:{{ .Params.Home.Contact.Email }}">
-            {{ .Params.Home.Contact.Email }}
-          </a><br>
-          
-          IRES - Université catholique de Louvain<br>
-          3 Place Montesquieu<br>
+            {{ .Params.Home.Contact.Email }} </a
+          ><br />
+
+          IRES - Université catholique de Louvain<br />
+          3 Place Montesquieu<br />
           1348 Louvain-la-Neuve, Belgium
         </address>
       </div>
@@ -116,8 +114,7 @@
 
 <!-- Research Section -->
 
-<section id="research"
-          class="section">
+<section id="research" class="section">
   <div>
     <header class="header">
       <h2><span>Research</span></h2>
@@ -125,65 +122,69 @@
 
     <h3>Working Papers</h3>
     {{ range .Params.Papers }}
-      <article class="paper">
-        <header>
-          <a href="{{ .link }}"
-            target="_blank">
-            <span>
-              {{ .title }}
-            </span>
-          </a><br>
-          {{ .subtitle }}
-        </header>
+    <article class="paper">
+      <header>
+        <a href="{{ .link }}" target="_blank">
+          <span> {{ .title }} </span> </a
+        ><br />
+        {{ .subtitle }}
+      </header>
 
-        {{ if (or (and (isset .alt_links "alt_link_1_url") (not (eq .alt_links.alt_link_1_url ""))) (and (isset .alt_links "alt_link_2_url") (not (eq .alt_links.alt_link_2_url ""))))}}
-        <aside>
-          {{ if (and (isset .alt_links "alt_link_1_url") (not (eq .alt_links.alt_link_1_url "")))}}
-            <a href="{{ .alt_links.alt_link_1_url }}" target="_blank">{{ .alt_links.alt_link_1_title }}</a>
-          {{ end }}
-          {{ if (and (isset .alt_links "alt_link_2_url") (not (eq .alt_links.alt_link_2_url "")))}}
-            <a href="{{ .alt_links.alt_link_2_url }}" target="_blank">{{ .alt_links.alt_link_2_title }}</a>
-          {{ end }}
-        </aside>
-        {{end}}
+      {{ if (or (and (isset .alt_links "alt_link_1_url") (not (eq
+      .alt_links.alt_link_1_url ""))) (and (isset .alt_links "alt_link_2_url")
+      (not (eq .alt_links.alt_link_2_url ""))))}}
+      <aside>
+        {{ if (and (isset .alt_links "alt_link_1_url") (not (eq
+        .alt_links.alt_link_1_url "")))}}
+        <a href="{{ .alt_links.alt_link_1_url }}" target="_blank"
+          >{{ .alt_links.alt_link_1_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_2_url") (not (eq
+        .alt_links.alt_link_2_url "")))}}
+        <a href="{{ .alt_links.alt_link_2_url }}" target="_blank"
+          >{{ .alt_links.alt_link_2_title }}</a
+        >
+        {{ end }}
+      </aside>
+      {{end}}
 
-        <p>
-          {{ .description }}
-        </p>
-      </article>
+      <p>{{ .description }}</p>
+    </article>
     {{ end }}
 
     <h3>Publications</h3>
     {{ range .Params.Publications }}
-      <article class="paper publication">
-        <header>
-          <a href="{{ .link }}"
-            target="_blank">
-            <span>
-              {{ .title }}
-            </span>
-          </a><br>
-          {{ .subtitle }}
-        </header>
+    <article class="paper publication">
+      <header>
+        <a href="{{ .link }}" target="_blank">
+          <span> {{ .title }} </span> </a
+        ><br />
+        {{ .subtitle }}
+      </header>
 
-        {{ if (or (and (isset .alt_links "alt_link_1_url") (not (eq .alt_links.alt_link_1_url ""))) (and (isset .alt_links "alt_link_2_url") (not (eq .alt_links.alt_link_2_url ""))))}}
-        <aside>
-          {{ if (and (isset .alt_links "alt_link_1_url") (not (eq .alt_links.alt_link_1_url "")))}}
-            <a href="{{ .alt_links.alt_link_1_url }}" target="_blank">{{ .alt_links.alt_link_1_title }}</a>
-          {{ end }}
-          {{ if (and (isset .alt_links "alt_link_2_url") (not (eq .alt_links.alt_link_2_url "")))}}
-            <a href="{{ .alt_links.alt_link_2_url }}" target="_blank">{{ .alt_links.alt_link_2_title }}</a>
-          {{ end }}
-        </aside>
-        {{end}}
+      {{ if (or (and (isset .alt_links "alt_link_1_url") (not (eq
+      .alt_links.alt_link_1_url ""))) (and (isset .alt_links "alt_link_2_url")
+      (not (eq .alt_links.alt_link_2_url ""))))}}
+      <aside>
+        {{ if (and (isset .alt_links "alt_link_1_url") (not (eq
+        .alt_links.alt_link_1_url "")))}}
+        <a href="{{ .alt_links.alt_link_1_url }}" target="_blank"
+          >{{ .alt_links.alt_link_1_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_2_url") (not (eq
+        .alt_links.alt_link_2_url "")))}}
+        <a href="{{ .alt_links.alt_link_2_url }}" target="_blank"
+          >{{ .alt_links.alt_link_2_title }}</a
+        >
+        {{ end }}
+      </aside>
+      {{end}}
 
-        <details>
-          <summary>Abstract</summary>
-          <p>
-            {{ .description }}
-          </p>
-        </details>
-      </article>
+      <details>
+        <summary>Abstract</summary>
+        <p>{{ .description }}</p>
+      </details>
+    </article>
     {{ end }}
 
     <article class="paper">
@@ -191,40 +192,37 @@
         <h3>Work in Progress</h3>
       </header>
       {{ range .Params.Wip }}
-        <p class="wip">{{ .title }}</p>
+      <p class="wip">{{ .title }}</p>
       {{ end }}
-      </article>
+    </article>
   </div>
 </section>
 
 <!-- CV Section -->
 
-<section id="cv"
-          class="section">
+<section id="cv" class="section">
   <div>
     <header class="header">
       <h2><span>CV</span></h2>
     </header>
 
     <p class="download">
-      <a href="{{ .Params.Home.Cv }}"
-          target="_blank">
-        <svg xmlns="http://www.w3.org/2000/svg"
-              class="icon"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round">
+      <a href="{{ .Params.Home.Cv }}" target="_blank">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="icon"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
           <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
           <polyline points="7 10 12 15 17 10"></polyline>
-          <line x1="12"
-                y1="15"
-                x2="12"
-                y2="3"></line>
+          <line x1="12" y1="15" x2="12" y2="3"></line>
         </svg>
         Full CV (pdf)
       </a>
@@ -233,13 +231,14 @@
     <h3>Short CV</h3>
 
     <p>
-      <strong>Primary Research Field:</strong><br>  {{ .Params.Cv.Primary_research_fields }}<br><br>
+      <strong>Primary Research Field:</strong><br />
+      {{ .Params.Cv.Primary_research_fields }}<br /><br />
 
-      <strong>Secondary Research Fields:</strong><br> {{ .Params.Cv.Secondary_research_fields }}<br><br>
+      <strong>Secondary Research Fields:</strong><br />
+      {{ .Params.Cv.Secondary_research_fields }}<br /><br />
 
-      <strong>Education:</strong><br> 
-      {{ range .Params.Cv.Pre_doctoral_studies }}
-        {{ safeHTML .item }}<br>
+      <strong>Education:</strong><br />
+      {{ range .Params.Cv.Pre_doctoral_studies }} {{ safeHTML .item }}<br />
       {{ end }}
     </p>
   </div>
@@ -247,26 +246,25 @@
 
 <!-- Teaching Section -->
 
-<section id="teaching"
-          class="section">
+<section id="teaching" class="section">
   <div>
     <header class="header">
       <h2><span>Teaching</span></h2>
     </header>
 
     {{ range .Params.Teaching.Tables }}
-      <h3>{{ .headline }}</h3>
+    <h3>{{ .headline }}</h3>
 
-      <table class="timetable">
-        <tbody>
-          {{ range .rows }}
-            <tr>
-              <td>{{ .date }}</td>
-              <td>{{ safeHTML .title }}</td>
-            </tr>
-          {{ end }}
-        </tbody>
-      </table>
+    <table class="timetable">
+      <tbody>
+        {{ range .rows }}
+        <tr>
+          <td>{{ .date }}</td>
+          <td>{{ safeHTML .title }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
     {{ end }}
   </div>
 </section>

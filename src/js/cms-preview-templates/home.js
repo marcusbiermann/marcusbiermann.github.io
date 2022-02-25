@@ -30,7 +30,7 @@ export default class PostPreview extends React.Component {
                   </strong>
                 </p>
 
-                <h3>I am available for interviews at</h3>
+                {/* <h3>I am available for interviews at</h3>
 
                 <ul>
                   {entry
@@ -38,7 +38,7 @@ export default class PostPreview extends React.Component {
                     .map((location) => (
                       <li>{location.getIn(["text"])}</li>
                     ))}
-                </ul>
+                </ul> */}
 
                 <p class="download">
                   <a
@@ -64,7 +64,7 @@ export default class PostPreview extends React.Component {
                     Download Job Market Paper
                   </a>
 
-                  <br />
+                  {/* <br />
 
                   <a
                     href={entry.getIn(["data", "home", "job_paper_2"])}
@@ -87,7 +87,7 @@ export default class PostPreview extends React.Component {
                       <line x1="12" y1="15" x2="12" y2="3" />
                     </svg>
                     Download Job Market Paper 2
-                  </a>
+                  </a> */}
                 </p>
 
                 <h3>Contact</h3>
