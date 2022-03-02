@@ -48,7 +48,20 @@ publications:
       alt_link_1_url: " "
       alt_link_2_title: " "
       alt_link_2_url: " "
-    description: " "
+    description: " This paper shows that idiosyncratic shocks to individual firms
+      can affect growth all over the world, even if shocked firms have no direct
+      foreign connections and no operations abroad. We identify an idiosyncratic
+      shock to a German bank, which caused the bank to cut lending to German
+      borrowers. Multinational parent firms located in Germany became
+      financially constrained. In response, international affiliates of affected
+      parents supported their parent by lending through internal capital markets
+      and became constrained themselves. The real growth of affiliates fell
+      sharply and took three years to fully recover. Though the initial shock
+      only hit the domestic activities of a firm in Germany, the impact in other
+      countries was sizable (for instance, around 0.4 percent of aggregate sales
+      in Austria and the Czech Republic). The findings reveal that idiosyncratic
+      shocks to individual firms influence economic outcomes far beyond firms’
+      direct scope of operation."
   - alt_links:
       alt_link_1_title: Article
       alt_link_1_url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561
