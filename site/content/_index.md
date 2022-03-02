@@ -2,53 +2,45 @@
 home:
   contact:
     email: marcus.biermann@uclouvain.be
-  cv: "https://drive.google.com/open?id=14Scl3GwyI0ojuLoPhkom_WS4dWys9jGE"
+  job_paper: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
   intro:
-    text: >-
-      I am a postdoctoral researcher at IRES, Université catholique de Louvain.
+    text: I am a postdoctoral researcher at IRES, Université catholique de Louvain.
       I obtained my PhD from the LSE and I am affiliated with the Centre for
       Economic Performance. My primary research field is international trade. My
       secondary research interests are in financial economics.
-  job_paper: >-
-    https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
-  job_paper_2: "https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc"
   large_photo: /img/portrait_original.png
-  locations:
-    - text: "at the EJME, 2021"
-    - text: "at the ASSA meetings, 2022"
-  small_photo: /img/portrait_original.png
+  cv: https://drive.google.com/open?id=14Scl3GwyI0ojuLoPhkom_WS4dWys9jGE
   title: Marcus Biermann
+  small_photo: /img/portrait_original.png
+  job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
+  locations: []
 papers:
   - alt_links:
       alt_link_1_title: CEP DP No. 1759
-      alt_link_1_url: "https://cep.lse.ac.uk/pubs/download/dp1759.pdf"
+      alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
       alt_link_2_title: "Coverage: LSE Blog"
-      alt_link_2_url: >-
-        https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
-    description: >-
-      This paper analyzes the consequences of the change in the presentation
-      mode of seminars in economics triggered by the COVID-19 pandemic.
-      Following the technology shock, the number of seminars held decreased by
-      approximately 12 percent as seminars went from in person to online
-      presentations. The composition of seminar speakers changed significantly.
-      Three proxies of speakers’ quality suggest that leading top economists
-      gained shares. The share of seminars held by women increased. The
-      geography of knowledge dissemination shifted significantly as the distance
-      between host and speaker institutions increased on average by 32 percent.
-      The growing inequality in presentations among speakers is correlated with
-      an increase in inequality in terms of citations. The results imply that
-      working from home instead of travelling can decrease gender-specific
-      inequality and increase inequality by productivity.
+      alt_link_2_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
+    description: This paper analyzes the consequences of the change in the
+      presentation mode of seminars in economics triggered by the COVID-19
+      pandemic. Following the technology shock, the number of seminars held
+      decreased by approximately 12 percent as seminars went from in person to
+      online presentations. The composition of seminar speakers changed
+      significantly. Three proxies of speakers’ quality suggest that leading top
+      economists gained shares. The share of seminars held by women increased.
+      The geography of knowledge dissemination shifted significantly as the
+      distance between host and speaker institutions increased on average by 32
+      percent. The growing inequality in presentations among speakers is
+      correlated with an increase in inequality in terms of citations. The
+      results imply that working from home instead of travelling can decrease
+      gender-specific inequality and increase inequality by productivity.
     headline: Working Papers
-    link: >-
-      https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
-    subtitle: "February, 2022"
+    link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
+    subtitle: March, 2022
     title: "Remote Talks: How ICT Changed Economics Seminars During COVID-19"
-  - description: >-
-      This paper shows that idiosyncratic shocks to individual firms can affect
-      growth all over the world, even if shocked firms have no direct foreign
-      connections and no operations abroad. We identify an idiosyncratic shock
-      to a German bank, which caused the bank to cut lending to German
+  - description: This paper shows that idiosyncratic shocks to individual firms can
+      affect growth all over the world, even if shocked firms have no direct
+      foreign connections and no operations abroad. We identify an idiosyncratic
+      shock to a German bank, which caused the bank to cut lending to German
       borrowers. Multinational parent firms located in Germany became
       financially constrained. In response, international affiliates of affected
       parents supported their parent by lending through internal capital markets
@@ -59,44 +51,45 @@ papers:
       in Austria and the Czech Republic). The findings reveal that idiosyncratic
       shocks to individual firms influence economic outcomes far beyond firms’
       direct scope of operation.
-    headline: ""
-    link: "https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc"
-    subtitle: "(with Kilian Huber), February 2021"
-    title: >-
-      Tracing the International Transmission of a Crisis Through Multinational
+    headline: " "
+    link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
+    subtitle: (with Kilian Huber), February 2021
+    title: Tracing the International Transmission of a Crisis Through Multinational
       Firms
+    alt_links:
+      alt_link_1_title: " "
+      alt_link_1_url: " "
+      alt_link_2_title: " "
+      alt_link_2_url: " "
 publications:
   - alt_links:
       alt_link_1_title: Article
-      alt_link_1_url: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561"
-    description: >-
-      This paper investigates how management practices as intangible transfers
-      are associated with the performance of multinational business groups.
-      Differences in the management level across source countries are predictive
-      for multinationals’ entry patterns for a given destination country. This
-      study uses acquisitions as a means to transplant management practices from
-      parents to affiliates abroad. It finds that better-managed parents
-      decrease employment and increase productivity post-acquisition. The
-      productivity gains are driven by targets with less developed management
-      practices and by targets of larger parents. Better-managed parents are
-      also more likely to install or retain a manager from the parent country
-      post-acquisition.
+      alt_link_1_url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561
+      alt_link_2_title: " "
+      alt_link_2_url: " "
+    description: This paper investigates how management practices as intangible
+      transfers are associated with the performance of multinational business
+      groups. Differences in the management level across source countries are
+      predictive for multinationals’ entry patterns for a given destination
+      country. This study uses acquisitions as a means to transplant management
+      practices from parents to affiliates abroad. It finds that better-managed
+      parents decrease employment and increase productivity post-acquisition.
+      The productivity gains are driven by targets with less developed
+      management practices and by targets of larger parents. Better-managed
+      parents are also more likely to install or retain a manager from the
+      parent country post-acquisition.
     headline: Publications
-    link: >-
-      https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
-    subtitle: "Review of International Economics, Vol. 30(1), February 2022, pp. 137-165."
-    title: >-
-      The Role of Management Practices in Acquisitions and the FDI Location
+    link: https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
+    subtitle: Review of International Economics, Vol. 30(1), February 2022, pp. 137-165.
+    title: The Role of Management Practices in Acquisitions and the FDI Location
       Decision
   - alt_links:
       alt_link_1_title: Article
-      alt_link_1_url: "https://www.degruyter.com/document/doi/10.1515/ger-2020-0048/html"
+      alt_link_1_url: https://www.degruyter.com/document/doi/10.1515/ger-2020-0048/html
       alt_link_2_title: Data
-      alt_link_2_url: >-
-        https://journaldata.zbw.eu/dataset/trade-and-the-size-distribution-of-firms-evidence-from-the-german-empire
-    description: >-
-      What effect did trade have on the size distribution of firms during the
-      first wave of globalization? Three historical datasets from the German
+      alt_link_2_url: https://journaldata.zbw.eu/dataset/trade-and-the-size-distribution-of-firms-evidence-from-the-german-empire
+    description: What effect did trade have on the size distribution of firms during
+      the first wave of globalization? Three historical datasets from the German
       Empire between 1875 and 1907 were collected and harmonized to answer this
       question. This paper combines industry census and bilateral railway trade
       data from the same industry and region along with industry-level tariff
@@ -106,20 +99,20 @@ publications:
       regional distributive effects of trade on inequality between firms that
       are discussed in the contemporaneous literature were already present
       during the first wave globalization.
-    link: "https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw"
-    subtitle: "German Economic Review, Vol. 22(3), August 2021, pp. 289-322."
+    link: https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw
+    subtitle: German Economic Review, Vol. 22(3), August 2021, pp. 289-322.
     title: "Trade and the Size Distribution of Firms: Evidence from the German Empire"
+    headline: " "
 wip:
-  - title: >-
-      Environmental Preferences and Deep Trade Agreements (with Gonzague
+  - title: Environmental Preferences and Deep Trade Agreements (with Gonzague
       Vannoorenberghe)
   - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
 cv:
   pre_doctoral_studies:
-    - item: "PhD in Economics, London School of Economics (LSE), 2019"
-    - item: "Master of Research in Economics, LSE, 2013"
-    - item: "Master of Science in Economics (<em>with distinction</em>), LSE, 2012"
-    - item: "Bachelor of Science in Economics, University of Bonn, 2011"
+    - item: PhD in Economics, London School of Economics (LSE), 2019
+    - item: Master of Research in Economics, LSE, 2013
+    - item: Master of Science in Economics (<em>with distinction</em>), LSE, 2012
+    - item: Bachelor of Science in Economics, University of Bonn, 2011
   primary_research_fields: International Trade
   secondary_research_fields: Financial Economics
 teaching:
@@ -127,11 +120,11 @@ teaching:
     - headline: London School of Economics
       rows:
         - date: 2017-2018
-          title: "International Economics (EC421), MSc course"
+          title: International Economics (EC421), MSc course
         - date: "2016"
-          title: "International Economics (EC351), Summer school"
-        - date: "2013-2014, 2015-2017"
-          title: "International Economics (EC315), 3rd-year undergraduate level"
+          title: International Economics (EC351), Summer school
+        - date: 2013-2014, 2015-2017
+          title: International Economics (EC315), 3rd-year undergraduate level
     - headline: Teaching Certification
       rows:
         - date: 2016-2017
