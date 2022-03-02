@@ -14,8 +14,7 @@ home:
   small_photo: /img/portrait_original.png
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
-papers: []
-publications:
+papers:
   - headline: Working Papers
     title: "Remote Talks: How ICT Changed Economics Seminars During COVID-19"
     subtitle: March 2022
@@ -38,16 +37,10 @@ publications:
       correlated with an increase in inequality in terms of citations. The
       results imply that working from home instead of travelling can decrease
       gender-specific inequality and increase inequality by productivity.
-  - headline: " "
-    title: Tracing the International Transmission of a Crisis Through Multinational
+  - title: Tracing the International Transmission of a Crisis Through Multinational
       Firms
-    link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
     subtitle: (with Kilian Huber), revision requested, February 2021
-    alt_links:
-      alt_link_1_title: " "
-      alt_link_1_url: " "
-      alt_link_2_title: " "
-      alt_link_2_url: " "
+    link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
     description: " This paper shows that idiosyncratic shocks to individual firms
       can affect growth all over the world, even if shocked firms have no direct
       foreign connections and no operations abroad. We identify an idiosyncratic
@@ -62,6 +55,13 @@ publications:
       in Austria and the Czech Republic). The findings reveal that idiosyncratic
       shocks to individual firms influence economic outcomes far beyond firms’
       direct scope of operation."
+    headline: " "
+    alt_links:
+      alt_link_1_title: " "
+      alt_link_1_url: " "
+      alt_link_2_title: " "
+      alt_link_2_url: " "
+publications:
   - alt_links:
       alt_link_1_title: Article
       alt_link_1_url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561
