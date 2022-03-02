@@ -14,31 +14,7 @@ home:
   small_photo: /img/portrait_original.png
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
-papers:
-  - description: This paper shows that idiosyncratic shocks to individual firms can
-      affect growth all over the world, even if shocked firms have no direct
-      foreign connections and no operations abroad. We identify an idiosyncratic
-      shock to a German bank, which caused the bank to cut lending to German
-      borrowers. Multinational parent firms located in Germany became
-      financially constrained. In response, international affiliates of affected
-      parents supported their parent by lending through internal capital markets
-      and became constrained themselves. The real growth of affiliates fell
-      sharply and took three years to fully recover. Though the initial shock
-      only hit the domestic activities of a firm in Germany, the impact in other
-      countries was sizable (for instance, around 0.4 percent of aggregate sales
-      in Austria and the Czech Republic). The findings reveal that idiosyncratic
-      shocks to individual firms influence economic outcomes far beyond firms’
-      direct scope of operation.
-    headline: " "
-    link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
-    subtitle: (with Kilian Huber), revision requested, February 2021
-    title: Tracing the International Transmission of a Crisis Through Multinational
-      Firms
-    alt_links:
-      alt_link_1_title: " "
-      alt_link_1_url: " "
-      alt_link_2_title: " "
-      alt_link_2_url: " "
+papers: []
 publications:
   - headline: Working Papers
     title: "Remote Talks: How ICT Changed Economics Seminars During COVID-19"
