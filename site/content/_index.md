@@ -15,28 +15,6 @@ home:
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
 papers:
-  - alt_links:
-      alt_link_1_title: CEP DP No. 1759
-      alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
-      alt_link_2_title: "Coverage: LSE Blog"
-      alt_link_2_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
-    description: This paper analyzes the consequences of the change in the
-      presentation mode of seminars in economics triggered by the COVID-19
-      pandemic. Following the technology shock, the number of seminars held
-      decreased by approximately 12 percent as seminars went from in person to
-      online presentations. The composition of seminar speakers changed
-      significantly. Three proxies of speakers’ quality suggest that leading top
-      economists gained shares. The share of seminars held by women increased.
-      The geography of knowledge dissemination shifted significantly as the
-      distance between host and speaker institutions increased on average by 32
-      percent. The growing inequality in presentations among speakers is
-      correlated with an increase in inequality in terms of citations. The
-      results imply that working from home instead of travelling can decrease
-      gender-specific inequality and increase inequality by productivity.
-    headline: Working Papers
-    link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
-    subtitle: March, 2022
-    title: "Remote Talks: How ICT Changed Economics Seminars During COVID-19"
   - description: This paper shows that idiosyncratic shocks to individual firms can
       affect growth all over the world, even if shocked firms have no direct
       foreign connections and no operations abroad. We identify an idiosyncratic
@@ -62,6 +40,39 @@ papers:
       alt_link_2_title: " "
       alt_link_2_url: " "
 publications:
+  - headline: Working Papers
+    title: "Remote Talks: How ICT Changed Economics Seminars During COVID-19"
+    subtitle: March 2022
+    link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
+    alt_links:
+      alt_link_1_title: CEP DP No. 1759
+      alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
+      alt_link_2_title: "Coverage: LSE Blog"
+      alt_link_2_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
+    description: This paper analyzes the consequences of the change in the
+      presentation mode of seminars in economics triggered by the COVID-19
+      pandemic. Following the technology shock, the number of seminars held
+      decreased by approximately 12 percent as seminars went from in person to
+      online presentations. The composition of seminar speakers changed
+      significantly. Three proxies of speakers’ quality suggest that leading top
+      economists gained shares. The share of seminars held by women increased.
+      The geography of knowledge dissemination shifted significantly as the
+      distance between host and speaker institutions increased on average by 32
+      percent. The growing inequality in presentations among speakers is
+      correlated with an increase in inequality in terms of citations. The
+      results imply that working from home instead of travelling can decrease
+      gender-specific inequality and increase inequality by productivity.
+  - headline: " "
+    title: Tracing the International Transmission of a Crisis Through Multinational
+      Firms
+    link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
+    subtitle: (with Kilian Huber), revision requested, February 2021
+    alt_links:
+      alt_link_1_title: " "
+      alt_link_1_url: " "
+      alt_link_2_title: " "
+      alt_link_2_url: " "
+    description: " "
   - alt_links:
       alt_link_1_title: Article
       alt_link_1_url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561
