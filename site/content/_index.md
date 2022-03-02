@@ -53,7 +53,7 @@ papers:
       direct scope of operation.
     headline: " "
     link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
-    subtitle: (with Kilian Huber), February 2021
+    subtitle: (with Kilian Huber), revision requested, February 2021
     title: Tracing the International Transmission of a Crisis Through Multinational
       Firms
     alt_links:
