@@ -55,18 +55,18 @@ papers:
       in Austria and the Czech Republic). The findings reveal that idiosyncratic
       shocks to individual firms influence economic outcomes far beyond firms’
       direct scope of operation."
-    headline: " "
+    headline: ""
     alt_links:
-      alt_link_1_title: " "
-      alt_link_1_url: " "
-      alt_link_2_title: " "
-      alt_link_2_url: " "
+      alt_link_1_title: ""
+      alt_link_1_url: ""
+      alt_link_2_title: ""
+      alt_link_2_url: ""
 publications:
   - alt_links:
       alt_link_1_title: Article
       alt_link_1_url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561
-      alt_link_2_title: " "
-      alt_link_2_url: " "
+      alt_link_2_title: ""
+      alt_link_2_url: ""
     description: This paper investigates how management practices as intangible
       transfers are associated with the performance of multinational business
       groups. Differences in the management level across source countries are
@@ -102,7 +102,7 @@ publications:
     link: https://drive.google.com/open?id=1ExXuBNsiGKpcsrGVD7hx-fwizl5VKYHw
     subtitle: German Economic Review, Vol. 22(3), August 2021, pp. 289-322.
     title: "Trade and the Size Distribution of Firms: Evidence from the German Empire"
-    headline: " "
+    headline: ""
 wip:
   - title: Environmental Preferences and Deep Trade Agreements (with Gonzague
       Vannoorenberghe)
