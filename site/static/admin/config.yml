@@ -31,19 +31,29 @@ collections: # A list of collections the CMS should be able to edit
                     label: "Locations",
                     name: locations,
                     widget: list,
-                    fields: [{ label: "Text", name: "text", widget: "string" }],
+                    fields:
+                      [
+                        {
+                          label: "Text",
+                          name: "text",
+                          widget: "string",
+                          required: false,
+                        },
+                      ],
                   },
                   {
                     label: "Job Market Paper",
                     name: job_paper,
                     widget: string,
+                    required: false,
                   },
                   {
                     label: "Job Market Paper 2",
                     name: job_paper_2,
                     widget: string,
+                    required: false,
                   },
-                  { label: "CV", name: cv, widget: string },
+                  { label: "CV", name: cv, widget: string, required: false },
                   {
                     label: "Contact",
                     name: contact,
@@ -59,10 +69,30 @@ collections: # A list of collections the CMS should be able to edit
               widget: list,
               fields:
                 [
-                  { label: "Headline", name: "headline", widget: "string" },
-                  { label: "Title", name: "title", widget: "string" },
-                  { label: "Subtitle", name: "subtitle", widget: "string" },
-                  { label: "Link", name: "link", widget: "string" },
+                  {
+                    label: "Headline",
+                    name: "headline",
+                    widget: "string",
+                    required: false,
+                  },
+                  {
+                    label: "Title",
+                    name: "title",
+                    widget: "string",
+                    required: false,
+                  },
+                  {
+                    label: "Subtitle",
+                    name: "subtitle",
+                    widget: "string",
+                    required: false,
+                  },
+                  {
+                    label: "Link",
+                    name: "link",
+                    widget: "string",
+                    required: false,
+                  },
                   {
                     label: "Alternate Links",
                     name: alt_links,
@@ -73,25 +103,34 @@ collections: # A list of collections the CMS should be able to edit
                           label: "Alternate Link 1 Title",
                           name: "alt_link_1_title",
                           widget: "string",
+                          required: false,
                         },
                         {
                           label: "Alternate Link 1 URL",
                           name: "alt_link_1_url",
                           widget: "string",
+                          required: false,
                         },
                         {
                           label: "Alternate Link 2 Title",
                           name: "alt_link_2_title",
                           widget: "string",
+                          required: false,
                         },
                         {
                           label: "Alternate Link 2 URL",
                           name: "alt_link_2_url",
                           widget: "string",
+                          required: false,
                         },
                       ],
                   },
-                  { label: "Description", name: "description", widget: "text" },
+                  {
+                    label: "Description",
+                    name: "description",
+                    widget: "text",
+                    required: false,
+                  },
                 ],
             }
           - {
@@ -100,10 +139,30 @@ collections: # A list of collections the CMS should be able to edit
               widget: list,
               fields:
                 [
-                  { label: "Headline", name: "headline", widget: "string" },
-                  { label: "Title", name: "title", widget: "string" },
-                  { label: "Subtitle", name: "subtitle", widget: "string" },
-                  { label: "Link", name: "link", widget: "string" },
+                  {
+                    label: "Headline",
+                    name: "headline",
+                    widget: "string",
+                    required: false,
+                  },
+                  {
+                    label: "Title",
+                    name: "title",
+                    widget: "string",
+                    required: false,
+                  },
+                  {
+                    label: "Subtitle",
+                    name: "subtitle",
+                    widget: "string",
+                    required: false,
+                  },
+                  {
+                    label: "Link",
+                    name: "link",
+                    widget: "string",
+                    required: false,
+                  },
                   {
                     label: "Alternate Links",
                     name: alt_links,
@@ -114,32 +173,49 @@ collections: # A list of collections the CMS should be able to edit
                           label: "Alternate Link 1 Title",
                           name: "alt_link_1_title",
                           widget: "string",
+                          required: false,
                         },
                         {
                           label: "Alternate Link 1 URL",
                           name: "alt_link_1_url",
                           widget: "string",
+                          required: false,
                         },
                         {
                           label: "Alternate Link 2 Title",
                           name: "alt_link_2_title",
                           widget: "string",
+                          required: false,
                         },
                         {
                           label: "Alternate Link 2 URL",
                           name: "alt_link_2_url",
                           widget: "string",
+                          required: false,
                         },
                       ],
                   },
-                  { label: "Description", name: "description", widget: "text" },
+                  {
+                    label: "Description",
+                    name: "description",
+                    widget: "text",
+                    required: false,
+                  },
                 ],
             }
           - {
               label: "WIP",
               name: wip,
               widget: list,
-              fields: [{ label: "Title", name: "title", widget: "string" }],
+              fields:
+                [
+                  {
+                    label: "Title",
+                    name: "title",
+                    widget: "string",
+                    required: false,
+                  },
+                ],
             }
           - {
               label: "CV",
@@ -151,17 +227,27 @@ collections: # A list of collections the CMS should be able to edit
                     label: "Primary Research Fields",
                     name: primary_research_fields,
                     widget: string,
+                    required: false,
                   },
                   {
                     label: "Secondary Research Fields",
                     name: secondary_research_fields,
                     widget: string,
+                    required: false,
                   },
                   {
                     label: "Education",
                     name: pre_doctoral_studies,
                     widget: list,
-                    fields: [{ label: "Item", name: "item", widget: "string" }],
+                    fields:
+                      [
+                        {
+                          label: "Item",
+                          name: "item",
+                          widget: "string",
+                          required: false,
+                        },
+                      ],
                   },
                 ],
             }
@@ -181,6 +267,7 @@ collections: # A list of collections the CMS should be able to edit
                           label: "Headline",
                           name: "headline",
                           widget: "string",
+                          required: false,
                         },
                         {
                           label: "Rows",
@@ -188,11 +275,17 @@ collections: # A list of collections the CMS should be able to edit
                           widget: list,
                           fields:
                             [
-                              { label: "Date", name: "date", widget: "string" },
+                              {
+                                label: "Date",
+                                name: "date",
+                                widget: "string",
+                                required: false,
+                              },
                               {
                                 label: "Title",
                                 name: "title",
                                 widget: "string",
+                                required: false,
                               },
                             ],
                         },
