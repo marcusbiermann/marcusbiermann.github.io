@@ -17,7 +17,7 @@ home:
 papers:
   - headline: Working Papers
     title: "Remote Talks: How ICT Changed Economics Seminars During COVID-19"
-    subtitle: March 2022
+    subtitle: April 2022
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
       alt_link_1_title: CEP DP No. 1759
@@ -25,18 +25,16 @@ papers:
       alt_link_2_title: "Coverage: LSE Blog"
       alt_link_2_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
     description: This paper analyzes the consequences of the change in the
-      presentation mode of seminars in economics triggered by the COVID-19
-      pandemic. Following the technology shock, the number of seminars held
-      decreased by approximately 12 percent as seminars went from in person to
-      online presentations. The composition of seminar speakers changed
-      significantly. Three proxies of speakers’ quality suggest that leading top
-      economists gained shares. The share of seminars held by women increased.
-      The geography of knowledge dissemination shifted significantly as the
-      distance between host and speaker institutions increased on average by 32
-      percent. The growing inequality in presentations among speakers is
-      correlated with an increase in inequality in terms of citations. The
-      results imply that working from home instead of travelling can decrease
-      gender-specific inequality and increase inequality by productivity.
+      presentation mode of economics seminars triggered by the COVID-19
+      pandemic. The composition of seminar speakers changed significantly. The
+      more productive economists gained shares. The share of seminars held by
+      women also increased. The geography of knowledge dissemination shifted
+      significantly as the distance between host and speaker institutions
+      increased on average by 32 percent. The growing inequality in
+      presentations among speakers is correlated with an increase in inequality
+      in terms of citations. The results imply that working from home instead of
+      traveling can decrease gender-specific inequality and increase inequality
+      by productivity.
   - title: Tracing the International Transmission of a Crisis Through Multinational
       Firms
     subtitle: (with Kilian Huber), Revision requested, February 2021
