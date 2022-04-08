@@ -27,14 +27,13 @@ papers:
     description: This paper analyzes the consequences of the change in the
       presentation mode of economics seminars triggered by the COVID-19
       pandemic. The composition of seminar speakers changed significantly. The
-      more productive economists gained shares. The share of seminars held by
-      women also increased. The geography of knowledge dissemination shifted
-      significantly as the distance between host and speaker institutions
-      increased on average by 32 percent. The growing inequality in
-      presentations among speakers is correlated with an increase in inequality
-      in terms of citations. The results imply that working from home instead of
-      traveling can decrease gender-specific inequality and increase inequality
-      by productivity.
+      leading economists gained shares. The share of seminars held by women also
+      increased. The geography of knowledge dissemination shifted significantly
+      as the distance between host and speaker institutions increased on average
+      by 32 percent. The growing inequality in presentations among speakers is
+      correlated with an increase in inequality in terms of citations. The
+      results imply that working from home instead of traveling can decrease
+      gender-specific inequality and increase inequality by productivity.
   - title: Tracing the International Transmission of a Crisis Through Multinational
       Firms
     subtitle: (with Kilian Huber), Revision requested, February 2021
