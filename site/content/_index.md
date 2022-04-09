@@ -36,7 +36,8 @@ papers:
       gender-specific inequality and increase inequality by productivity.
   - title: Tracing the International Transmission of a Crisis Through Multinational
       Firms
-    subtitle: (with Kilian Huber), Revision requested, February 2021
+    subtitle: (with Kilian Huber), Revision requested by the Journal of Finance,
+      February 2021
     link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
     description: " This paper shows that idiosyncratic shocks to individual firms
       can affect growth all over the world, even if shocked firms have no direct
