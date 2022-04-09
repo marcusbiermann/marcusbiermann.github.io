@@ -16,7 +16,7 @@ home:
   locations: []
 papers:
   - headline: Working Papers
-    title: "Remote Talks: How ICT Changed Economics Seminars During COVID-19"
+    title: "Remote Talks: Changes to Economics Seminars During COVID-19"
     subtitle: April 2022
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
