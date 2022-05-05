@@ -17,7 +17,7 @@ home:
 papers:
   - headline: Working Papers
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
-    subtitle: April 2022
+    subtitle: May 2022
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
       alt_link_1_title: CEP DP No. 1759
@@ -32,8 +32,9 @@ papers:
       as the distance between host and speaker institutions increased on average
       by 32 percent. The growing inequality in presentations among speakers is
       correlated with an increase in inequality in terms of citations. The
-      results imply that working from home instead of traveling can decrease
-      gender-specific inequality and increase inequality by productivity.
+      results imply that virtual presentations instead of traveling can decrease
+      gender-specific inequality and increase inequality by productivity in the
+      profession.
   - title: Tracing the International Transmission of a Crisis Through Multinational
       Firms
     subtitle: (with Kilian Huber), Revision requested by the Journal of Finance,
