@@ -20,11 +20,12 @@ papers:
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: The Quarterly Journal of Economics (QJE) is the leading journal in
       the economics profession and managed by Harvard University. Drawing on the
-      acknowledgements of more than 700 publications in top 5 journals, this
+      acknowledgements of more than 700 publications in the top 5 journals, this
       article documents a robust and significant correlation between presenting
-      at Harvard University and publishing the QJE. There is positive but
-      insignificant correlation between presentations and publishing in the
-      Journal of Political Economy managed by the University of Chicago.
+      at Harvard University and publishing in the QJE. A positive but
+      insignificant correlation is found between presentations and publishing in
+      the Journal of Political Economy (JPE), managed by the University of
+      Chicago.
     headline: Working Papers
   - headline: ""
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
