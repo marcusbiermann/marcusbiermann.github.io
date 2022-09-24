@@ -15,17 +15,20 @@ home:
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
 papers:
-  - title: "Publishing in the QJE: The Role of Presenting at Harvard"
-    subtitle: July 2022
+  - title: "Publishing in the Top 5: The Role of Seminar Presentations at Chicago
+      and Harvard"
+    subtitle: September 2022
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
-    description: The Quarterly Journal of Economics (QJE) is the leading journal in
-      the economics profession and managed by Harvard University. Drawing on the
-      acknowledgements of more than 700 publications in the top 5 journals, this
-      article documents a robust and significant correlation between presenting
-      at Harvard University and publishing in the QJE. A positive but
-      insignificant correlation is found between presentations and publishing in
-      the Journal of Political Economy (JPE), managed by the University of
-      Chicago.
+    description: The Quarterly Journal of Economics (QJE) and the Journal of
+      Political Economy (JPE) are the leading journal in the economics
+      profession and managed by Harvard University and the University of
+      Chicago. Drawing on the acknowledgements of about 2,300 publications in
+      the top 5 journals, this article documents a robust and significant
+      correlation between presenting at Harvard University and publishing in the
+      QJE and between presenting at the University of Chicago and publishing in
+      the JPE. Articles presented at Chicago and Harvard and latter published in
+      the respective journal have a similar impact in terms of citations as
+      other paper published in the respective journal.
     headline: Working Papers
   - headline: ""
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
