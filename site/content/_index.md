@@ -4,10 +4,10 @@ home:
     email: marcus.biermann@uclouvain.be
   job_paper: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
   intro:
-    text: I am a postdoctoral researcher at IRES, Université catholique de Louvain.
-      I obtained my PhD from the LSE and I am affiliated with the Centre for
-      Economic Performance. My primary research field is international trade. My
-      secondary research interests are in financial economics.
+    text: I am an Assistant Professor at Bielefeld University. I obtained my PhD
+      from the LSE and I am affiliated with the Centre for Economic Performance.
+      My primary research field is international trade. My secondary research
+      interests are in the economics and science and financial economics.
   large_photo: /img/portrait_original.png
   cv: https://drive.google.com/open?id=14Scl3GwyI0ojuLoPhkom_WS4dWys9jGE
   title: Marcus Biermann
