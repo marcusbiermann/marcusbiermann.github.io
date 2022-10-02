@@ -26,9 +26,9 @@ papers:
       the top five journals, this article documents a robust and significant
       correlation between presenting at Harvard University and publishing in the
       QJE and between presenting at the University of Chicago and publishing in
-      the JPE. Articles presented at Harvard (Chicago) and latter published in
-      the QJE (JPE) have a similar impact in terms of citations as other paper
-      published in the QJE (JPE).
+      the JPE. Articles presented at Harvard (Chicago) and published in the QJE
+      (JPE) have a similar impact in terms of citations as other paper published
+      in the QJE (JPE).
     headline: Working Papers
   - headline: ""
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
