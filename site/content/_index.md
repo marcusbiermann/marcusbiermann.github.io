@@ -1,7 +1,10 @@
 ---
 home:
   contact:
-    email: marcus.biermann@uclouvain.be
+    email: marcus.biermann@uni-bielefeld.de
+    address1: Bielefeld University
+    address2: Universitätsstraße 25
+    address3: 33615 Bielefeld, Germany
   job_paper: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
   intro:
     text: I am an Assistant Professor at Bielefeld University. I obtained my PhD
