@@ -102,13 +102,11 @@ export default class PostPreview extends React.Component {
                     {entry.getIn(["data", "home", "contact", "email"])}
                   </a>
                   <br />
-                  Department of Economics
+                  {entry.getIn(["data", "home", "contact", "address1"])}
                   <br />
-                  London School of Economics and Political Science
+                  {entry.getIn(["data", "home", "contact", "address2"])}
                   <br />
-                  Houghton Street
-                  <br />
-                  London WC2A 2AE
+                  {entry.getIn(["data", "home", "contact", "address3"])}
                 </address>
               </div>
             </div>

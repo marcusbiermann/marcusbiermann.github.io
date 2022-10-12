@@ -103,9 +103,9 @@
             {{ .Params.Home.Contact.Email }} </a
           ><br />
 
-          IRES - Université catholique de Louvain<br />
-          3 Place Montesquieu<br />
-          1348 Louvain-la-Neuve, Belgium
+          {{ .Params.Home.Contact.Address1 }}<br />
+          {{ .Params.Home.Contact.Address2 }}<br />
+          {{ .Params.Home.Contact.Address3 }}
         </address>
       </div>
     </div>
@@ -124,15 +124,20 @@
     {{ range .Params.Papers }}
     <article class="paper">
       <header>
-        <a href="{{ .link }}" target="_blank">
-          <span> {{ .title }} </span> </a
+        <a href="{{ .link }}" target="_blank"> <span> {{ .title }} </span> </a
         ><br />
         {{ .subtitle }}
       </header>
 
       {{ if (or (and (isset .alt_links "alt_link_1_url") (not (eq
       .alt_links.alt_link_1_url ""))) (and (isset .alt_links "alt_link_2_url")
-      (not (eq .alt_links.alt_link_2_url ""))))}}
+      (not (eq .alt_links.alt_link_2_url ""))) (and (isset .alt_links
+      "alt_link_3_url") (not (eq .alt_links.alt_link_3_url ""))) (and (isset
+      .alt_links "alt_link_4_url") (not (eq .alt_links.alt_link_4_url ""))) (and
+      (isset .alt_links "alt_link_5_url") (not (eq .alt_links.alt_link_5_url
+      ""))) (and (isset .alt_links "alt_link_6_url") (not (eq
+      .alt_links.alt_link_6_url ""))) (and (isset .alt_links "alt_link_7_url")
+      (not (eq .alt_links.alt_link_7_url ""))))}}
       <aside>
         {{ if (and (isset .alt_links "alt_link_1_url") (not (eq
         .alt_links.alt_link_1_url "")))}}
@@ -143,6 +148,31 @@
         .alt_links.alt_link_2_url "")))}}
         <a href="{{ .alt_links.alt_link_2_url }}" target="_blank"
           >{{ .alt_links.alt_link_2_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_3_url") (not (eq
+        .alt_links.alt_link_3_url "")))}}
+        <a href="{{ .alt_links.alt_link_3_url }}" target="_blank"
+          >{{ .alt_links.alt_link_3_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_4_url") (not (eq
+        .alt_links.alt_link_4_url "")))}}
+        <a href="{{ .alt_links.alt_link_4_url }}" target="_blank"
+          >{{ .alt_links.alt_link_4_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_5_url") (not (eq
+        .alt_links.alt_link_5_url "")))}}
+        <a href="{{ .alt_links.alt_link_5_url }}" target="_blank"
+          >{{ .alt_links.alt_link_5_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_6_url") (not (eq
+        .alt_links.alt_link_6_url "")))}}
+        <a href="{{ .alt_links.alt_link_6_url }}" target="_blank"
+          >{{ .alt_links.alt_link_6_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_7_url") (not (eq
+        .alt_links.alt_link_7_url "")))}}
+        <a href="{{ .alt_links.alt_link_7_url }}" target="_blank"
+          >{{ .alt_links.alt_link_7_title }}</a
         >
         {{ end }}
       </aside>
@@ -156,15 +186,20 @@
     {{ range .Params.Publications }}
     <article class="paper publication">
       <header>
-        <a href="{{ .link }}" target="_blank">
-          <span> {{ .title }} </span> </a
+        <a href="{{ .link }}" target="_blank"> <span> {{ .title }} </span> </a
         ><br />
         {{ .subtitle }}
       </header>
 
       {{ if (or (and (isset .alt_links "alt_link_1_url") (not (eq
       .alt_links.alt_link_1_url ""))) (and (isset .alt_links "alt_link_2_url")
-      (not (eq .alt_links.alt_link_2_url ""))))}}
+      (not (eq .alt_links.alt_link_2_url ""))) (and (isset .alt_links
+      "alt_link_3_url") (not (eq .alt_links.alt_link_3_url ""))) (and (isset
+      .alt_links "alt_link_4_url") (not (eq .alt_links.alt_link_4_url ""))) (and
+      (isset .alt_links "alt_link_5_url") (not (eq .alt_links.alt_link_5_url
+      ""))) (and (isset .alt_links "alt_link_6_url") (not (eq
+      .alt_links.alt_link_6_url ""))) (and (isset .alt_links "alt_link_7_url")
+      (not (eq .alt_links.alt_link_7_url ""))))}}
       <aside>
         {{ if (and (isset .alt_links "alt_link_1_url") (not (eq
         .alt_links.alt_link_1_url "")))}}
@@ -175,6 +210,31 @@
         .alt_links.alt_link_2_url "")))}}
         <a href="{{ .alt_links.alt_link_2_url }}" target="_blank"
           >{{ .alt_links.alt_link_2_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_3_url") (not (eq
+        .alt_links.alt_link_3_url "")))}}
+        <a href="{{ .alt_links.alt_link_3_url }}" target="_blank"
+          >{{ .alt_links.alt_link_3_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_4_url") (not (eq
+        .alt_links.alt_link_4_url "")))}}
+        <a href="{{ .alt_links.alt_link_4_url }}" target="_blank"
+          >{{ .alt_links.alt_link_4_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_5_url") (not (eq
+        .alt_links.alt_link_5_url "")))}}
+        <a href="{{ .alt_links.alt_link_5_url }}" target="_blank"
+          >{{ .alt_links.alt_link_5_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_6_url") (not (eq
+        .alt_links.alt_link_6_url "")))}}
+        <a href="{{ .alt_links.alt_link_6_url }}" target="_blank"
+          >{{ .alt_links.alt_link_6_title }}</a
+        >
+        {{ end }} {{ if (and (isset .alt_links "alt_link_7_url") (not (eq
+        .alt_links.alt_link_7_url "")))}}
+        <a href="{{ .alt_links.alt_link_7_url }}" target="_blank"
+          >{{ .alt_links.alt_link_7_title }}</a
         >
         {{ end }}
       </aside>
