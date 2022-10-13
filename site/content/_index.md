@@ -18,24 +18,9 @@ home:
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
 papers:
-  - title: "Publishing in the Top Five: The Role of Seminar Presentations at Chicago
-      and Harvard"
-    subtitle: September 2022
-    link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
-    description: The Quarterly Journal of Economics (QJE) managed by Harvard
-      University and the Journal of Political Economy (JPE) managed by the
-      University of Chicago are two of the top five journals in the economics
-      profession. Drawing on the acknowledgements of about 2,300 publications in
-      the top five journals, this article documents a robust and significant
-      correlation between presenting at Harvard University and publishing in the
-      QJE and between presenting at the University of Chicago and publishing in
-      the JPE. Articles presented at Harvard (Chicago) and published in the QJE
-      (JPE) have a similar impact in terms of citations as other paper published
-      in the QJE (JPE).
-    headline: Working Papers
-  - headline: ""
+  - headline: Working Papers
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
-    subtitle: May 2022
+    subtitle: October 2022
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
       alt_link_1_title: CEP DP No. 1759
@@ -57,6 +42,21 @@ papers:
       results imply that virtual presentations instead of traveling can decrease
       gender-specific inequality and increase inequality by productivity in the
       profession.
+  - title: "Publishing in the Top Five: The Role of Seminar Presentations at Chicago
+      and Harvard"
+    subtitle: September 2022
+    link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
+    description: The Quarterly Journal of Economics (QJE) managed by Harvard
+      University and the Journal of Political Economy (JPE) managed by the
+      University of Chicago are two of the top five journals in the economics
+      profession. Drawing on the acknowledgements of about 2,300 publications in
+      the top five journals, this article documents a robust and significant
+      correlation between presenting at Harvard University and publishing in the
+      QJE and between presenting at the University of Chicago and publishing in
+      the JPE. Articles presented at Harvard (Chicago) and published in the QJE
+      (JPE) have a similar impact in terms of citations as other paper published
+      in the QJE (JPE).
+    headline: ""
   - title: Tracing the International Transmission of a Crisis Through Multinational
       Firms
     subtitle: (with Kilian Huber), Revision requested by the Journal of Finance,
