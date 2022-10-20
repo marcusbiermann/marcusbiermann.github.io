@@ -23,14 +23,16 @@ papers:
     subtitle: October 2022
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
-      alt_link_1_title: CEP DP No. 1759
       alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
-      alt_link_2_title: "Coverage: LSE Blog"
       alt_link_2_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
-      alt_link_3_url: https://blogs.worldbank.org/impactevaluations/weekly-links-december-3-chef-banerjee-modest-impacts-digital-markets-agriculture?cid=SHR_BlogSiteShare_EN_EXT
-      alt_link_3_title: World Bank Development Impact Blog
+      alt_link_3_url: https://cep.lse.ac.uk/pubs/download/cp641.pdf
       alt_link_4_url: https://www.wsj.com/articles/virtual-conferences-increase-women-attendance-11652452541?st=rhnujuglevtiga1&reflink=desktopwebshare_permalink
+      alt_link_5_url: https://blogs.worldbank.org/impactevaluations/weekly-links-december-3-chef-banerjee-modest-impacts-digital-markets-agriculture?cid=SHR_BlogSiteShare_EN_EXT
+      alt_link_1_title: CEP DP No. 1759
+      alt_link_2_title: "Coverage: LSE Blog"
+      alt_link_3_title: LSE CentrePiece
       alt_link_4_title: Wall Street Journal
+      alt_link_5_title: World Bank Development Impact Blog
     description: This paper analyzes the consequences of the change in the
       presentation mode of economics seminars triggered by the COVID-19
       pandemic. The composition of seminar speakers changed significantly. The
