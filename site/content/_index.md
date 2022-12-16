@@ -20,7 +20,7 @@ home:
 papers:
   - headline: Working Papers
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
-    subtitle: October 2022
+    subtitle: December 2022
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
       alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
