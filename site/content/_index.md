@@ -19,6 +19,14 @@ home:
   locations: []
 papers:
   - headline: Working Papers
+    subtitle: (with Elsa Leromain), January 2023
+    title: "The indirect effect of the Russian-Ukrainian war through international
+      linkages: early evidence from the stock market"
+    alt_links:
+      alt_link_1_title: CEP DP No. 1899
+      alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1899.pdf
+    link: https://drive.google.com/file/d/1gT_A_v2D3ZHhF0FwoW5F5D-gNHs7IqSQ/view?usp=sharing
+  - headline: ""
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
     subtitle: January 2023
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
