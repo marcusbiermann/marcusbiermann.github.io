@@ -26,6 +26,18 @@ papers:
       alt_link_1_title: CEP DP No. 1899
       alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1899.pdf
     link: https://drive.google.com/file/d/1gT_A_v2D3ZHhF0FwoW5F5D-gNHs7IqSQ/view?usp=sharing
+    description: We study how firms’ international linkages to Russia and Ukraine
+      have affected investors’ expectations following the outbreak of the
+      Russian-Ukrainian war. We perform an event study around the Russian
+      invasion into Ukraine on February 24, 2022. We find that having trade
+      linkages to Russia in the top decile is associated with a decrease in the
+      cumulative return by 2.16 percentage points and having an affiliate in
+      Russia with a decrease by 3.12 percentage points. Having an affiliate in
+      Ukraine has, however, no effect on firms’ stock market returns. The total
+      impact of trade linkages on the aggregate stock market performance of
+      third countries was on average 0.8 percentage points and of multinational
+      linkages was on average 0.73 percentage points. The losses were largest in
+      European countries.
   - headline: ""
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
     subtitle: January 2023
