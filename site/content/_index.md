@@ -40,7 +40,7 @@ papers:
       European countries.
   - headline: ""
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
-    subtitle: January 2023
+    subtitle: February 2023
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
       alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
