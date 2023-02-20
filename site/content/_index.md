@@ -78,17 +78,25 @@ papers:
       alt_link_3_title: LSE CentrePiece
       alt_link_4_title: Wall Street Journal
       alt_link_5_title: World Bank Development Impact Blog
-    description: This paper analyzes the consequences of the change in the
-      presentation mode of economics seminars triggered by the COVID-19
-      pandemic. The composition of seminar speakers changed significantly. The
-      leading economists gained shares. The share of seminars held by women also
-      increased. The geography of knowledge dissemination shifted significantly
-      as the distance between host and speaker institutions increased on average
-      by 32 percent. The growing inequality in presentations among speakers is
-      correlated with an increase in inequality in terms of citations. The
-      results imply that virtual presentations instead of traveling can decrease
-      gender-specific inequality and increase inequality by productivity in the
-      profession.
+    description: >-
+      This paper analyzes the consequences of the change in the presentation
+      mode of
+
+      economics seminars triggered by the COVID-19 pandemic. The composition of seminar speakers changed significantly. The share of seminars held by women increased.
+
+      The leading economists in terms of recent output and top young top economists also
+
+      gained shares. The geography of knowledge dissemination shifted significantly as
+
+      the distance between host and speaker institutions increased on average by 32 percent.
+
+      The growing inequality in presentations among speakers is correlated with an
+
+      increase in inequality in terms of citations. The results imply that virtual presentations
+
+      instead of traveling can decrease gender-specific inequality and increase inequality by
+
+      productivity in the profession.
   - title: "Publishing in the Top Five: The Role of Seminar Presentations at Chicago
       and Harvard"
     subtitle: February 2023
