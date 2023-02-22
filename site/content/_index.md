@@ -44,7 +44,7 @@ papers:
       alt_link_2_title: ""
       alt_link_2_url: ""
   - headline: ""
-    subtitle: (with Elsa Leromain), January 2023
+    subtitle: (with Elsa Leromain), February 2023
     title: "The Indirect Effect of the Russian-Ukrainian War Through International
       Linkages: Early Evidence from the Stock Market"
     alt_links:
