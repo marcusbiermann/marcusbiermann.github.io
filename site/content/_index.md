@@ -21,22 +21,19 @@ papers:
   - title: Tracing the International Transmission of a Crisis Through Multinational
       Firms
     subtitle: (with Kilian Huber), Revision requested by the Journal of Finance,
-      February 2021
+      March 2023
     link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
-    description: " This paper shows that idiosyncratic shocks to individual firms
-      can affect growth all over the world, even if shocked firms have no direct
-      foreign connections and no operations abroad. We identify an idiosyncratic
-      shock to a German bank, which caused the bank to cut lending to German
-      borrowers. Multinational parent firms located in Germany became
-      financially constrained. In response, international affiliates of affected
-      parents supported their parent by lending through internal capital markets
-      and became constrained themselves. The real growth of affiliates fell
-      sharply and took three years to fully recover. Though the initial shock
-      only hit the domestic activities of a firm in Germany, the impact in other
-      countries was sizable (for instance, around 0.4 percent of aggregate sales
-      in Austria and the Czech Republic). The findings reveal that idiosyncratic
-      shocks to individual firms influence economic outcomes far beyond firms’
-      direct scope of operation."
+    description: We show that multinational firms transmit shocks across countries
+      through their internal capital markets. We study a credit supply shock to
+      parent firms in Germany. International affiliates outside Germany
+      supported their parents through internal lending, became financially
+      constrained themselves, and experienced lower real growth. We find that
+      managers were "Darwinist" with respect to international affiliates but
+      "Socialist" in the home country, that internal capital markets transmitted
+      the credit shock more strongly than a non-financial shock, and that access
+      to developed credit markets attenuated the real effects. The total real
+      impact of shock transmission through multinationals on foreign economies
+      was large.
     headline: Working Papers
     alt_links:
       alt_link_1_title: ""
