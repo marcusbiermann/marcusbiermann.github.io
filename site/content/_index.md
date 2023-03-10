@@ -96,18 +96,18 @@ papers:
       productivity in the profession.
   - title: "Publishing in the Top Five: The Role of Seminar Presentations at Chicago
       and Harvard"
-    subtitle: February 2023
+    subtitle: March 2023
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: The Quarterly Journal of Economics (QJE) managed by Harvard
       University and the Journal of Political Economy (JPE) managed by the
       University of Chicago are two of the top five journals in the economics
-      profession. Drawing on the acknowledgements of about 2,300 publications in
-      the top five journals, this article documents a robust and significant
-      correlation between presenting at Harvard University and publishing in the
-      QJE and between presenting at the University of Chicago and publishing in
-      the JPE. Articles presented at Harvard (Chicago) and published in the QJE
-      (JPE) have a similar impact in terms of citations as other articles
-      published in the QJE (JPE).
+      profession. Drawing on the acknowledgements of more than 2,000
+      publications in the top five journals, this article documents a robust and
+      significant correlation between presenting at Harvard University and
+      publishing in the QJE and between presenting at the University of Chicago
+      and publishing in the JPE. Articles presented at Harvard (Chicago) and
+      published in the QJE (JPE) have, on average, a similar impact in terms of
+      citations as other articles published in the QJE (JPE).
     headline: ""
 publications:
   - alt_links:
