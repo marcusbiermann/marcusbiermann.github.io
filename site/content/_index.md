@@ -36,8 +36,8 @@ papers:
       was large.
     headline: Working Papers
     alt_links:
-      alt_link_1_title: ""
-      alt_link_1_url: ""
+      alt_link_1_title: "Coverage: BFI Brief"
+      alt_link_1_url: https://bfi.uchicago.edu/insight/research-summary/tracing-the-international-transmission-of-a-crisis-through-multinational-firms/
       alt_link_2_title: ""
       alt_link_2_url: ""
   - headline: ""
