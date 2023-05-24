@@ -113,7 +113,7 @@ publications:
   - headline: Publications
     title: On the Gender Diversity of Research Teams in Economics Seminars
     link: https://www.aeaweb.org/articles?id=10.1257/pandp.20231123
-    subtitle: "AEA Papers and Proceedings, 113: 473-76"
+    subtitle: "AEA Papers and Proceedings, 2023. 113: 473-76"
     description: Seminars are an important channel through which researchers receive
       feedback on their work and disseminate it. This paper presents descriptive
       evidence on the representation of female, male, and mixed teams in
