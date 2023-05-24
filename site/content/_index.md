@@ -110,6 +110,19 @@ papers:
       citations as other articles published in the QJE (JPE).
     headline: ""
 publications:
+  - headline: Publications
+    title: On the Gender Diversity of Research Teams in Economics Seminars
+    link: https://www.aeaweb.org/articles?id=10.1257/pandp.20231123
+    subtitle: "AEA Papers and Proceedings, 113: 473-76"
+    description: Seminars are an important channel through which researchers receive
+      feedback on their work and disseminate it. This paper presents descriptive
+      evidence on the representation of female, male, and mixed teams in
+      economics seminars. I use a balanced panel of 270 institutions in the
+      academic years 2018–2020. I find that before COVID-19, only 7.4 percent of
+      presented projects were authored by female teams, 59.2 percent of projects
+      were authored by male teams, and 33.5 percent of projects were authored by
+      mixed teams. The introduction of virtual seminars during the COVID-19
+      pandemic led to more balanced distribution across team types.
   - alt_links:
       alt_link_1_title: Article
       alt_link_1_url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561
@@ -126,7 +139,7 @@ publications:
       management practices and by targets of larger parents. Better-managed
       parents are also more likely to install or retain a manager from the
       parent country post-acquisition.
-    headline: Publications
+    headline: ""
     link: https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
     subtitle: Review of International Economics, Vol. 30(1), February 2022, pp. 137-165.
     title: The Role of Management Practices in Acquisitions and the FDI Location
