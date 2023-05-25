@@ -47,6 +47,8 @@ papers:
     alt_links:
       alt_link_1_title: CEP DP No. 1899
       alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1899.pdf
+      alt_link_2_title: "Coverage: Economics Observatory"
+      alt_link_2_url: https://www.economicsobservatory.com/how-has-the-russian-invasion-of-ukraine-affected-global-financial-markets
     link: https://drive.google.com/file/d/1gT_A_v2D3ZHhF0FwoW5F5D-gNHs7IqSQ/view?usp=sharing
     description: We study how firms’ international linkages to Russia and Ukraine
       have affected investors’ expectations following the outbreak of the
