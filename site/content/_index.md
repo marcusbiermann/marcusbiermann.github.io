@@ -180,6 +180,10 @@ cv:
   secondary_research_fields: Economics of Science, Financial Economics
 teaching:
   tables:
+    - headline: Bielefeld University
+      rows:
+        - date: 2023-
+          title: Außenwirtschaft & Macroeconomics II, MSc-level lecture
     - headline: London School of Economics
       rows:
         - date: 2017-2018
