@@ -18,29 +18,7 @@ home:
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
 papers:
-  - title: Tracing the International Transmission of a Crisis Through Multinational
-      Firms
-    subtitle: (with Kilian Huber), Revision requested by the Journal of Finance,
-      March 2023
-    link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
-    description: We show that multinational firms transmit shocks across countries
-      through their internal capital markets. We study a credit supply shock to
-      parent firms in Germany. International affiliates outside Germany
-      supported their parents through internal lending, became financially
-      constrained themselves, and experienced lower real growth. We find that
-      managers were "Darwinist" with respect to international affiliates but
-      "Socialist" in the home country, that internal capital markets transmitted
-      the credit shock more strongly than a non-financial shock, and that access
-      to developed credit markets attenuated the real effects. The total real
-      impact of shock transmission through multinationals on foreign economies
-      was large.
-    headline: Working Papers
-    alt_links:
-      alt_link_1_title: "Coverage: BFI Brief"
-      alt_link_1_url: https://bfi.uchicago.edu/insight/research-summary/tracing-the-international-transmission-of-a-crisis-through-multinational-firms/
-      alt_link_2_title: ""
-      alt_link_2_url: ""
-  - headline: ""
+  - headline: Working Papers
     subtitle: (with Elsa Leromain), February 2023
     title: "The Indirect Effect of the Russian-Ukrainian War Through International
       Linkages: Early Evidence from the Stock Market"
@@ -112,7 +90,26 @@ papers:
       citations as other articles published in the QJE (JPE).
     headline: ""
 publications:
-  - headline: Publications
+  - title: Tracing the International Transmission of a Crisis Through Multinational
+      Firms
+    headline: Publications
+    description: We show that multinational firms transmit shocks across countries
+      through their internal capital markets. We study a credit supply shock to
+      parent firms in Germany. International affiliates outside Germany
+      supported their parents through internal lending, became financially
+      constrained themselves, and experienced lower real growth. We find that
+      managers were "Darwinist" with respect to international affiliates but
+      "Socialist" in the home country, that internal capital markets transmitted
+      the credit shock more strongly than a non-financial shock, and that access
+      to developed credit markets attenuated the real effects. The total real
+      impact of shock transmission through multinationals on foreign economies
+      was large.
+    subtitle: (with Kilian Huber), Journal of Finance, Forthcoming
+    link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
+    alt_links:
+      alt_link_1_title: "Coverage: BFI Brief"
+      alt_link_1_url: https://bfi.uchicago.edu/insight/research-summary/tracing-the-international-transmission-of-a-crisis-through-multinational-firms/
+  - headline: ""
     title: On the Gender Diversity of Research Teams in Economics Seminars
     link: https://www.aeaweb.org/articles?id=10.1257/pandp.20231123
     subtitle: AEA Papers and Proceedings, Vol. 113, May 2023, pp. 473-76.
