@@ -62,18 +62,16 @@ papers:
       alt_link_2_title: "Coverage: Economics Observatory"
       alt_link_2_url: https://www.economicsobservatory.com/how-has-the-russian-invasion-of-ukraine-affected-global-financial-markets
     link: https://drive.google.com/file/d/1gT_A_v2D3ZHhF0FwoW5F5D-gNHs7IqSQ/view?usp=sharing
-    description: We study how firms’ international linkages to Russia and Ukraine
-      have affected investors’ expectations following the outbreak of the
-      Russian-Ukrainian war. We perform an event study around the Russian
-      invasion into Ukraine on February 24, 2022. We find that having trade
-      linkages to Russia in the top decile is associated with a decrease in the
-      cumulative return by 2.16 percentage points and having an affiliate in
-      Russia with a decrease by 3.12 percentage points. Having an affiliate in
-      Ukraine has, however, no effect on firms’ stock market returns. The total
-      impact of trade linkages on the aggregate stock market performance of
-      third countries was on average 0.8 percentage points and of multinational
-      linkages was on average 0.73 percentage points. The losses were largest in
-      European countries.
+    description: This paper investigates how firms' international linkages to Russia
+      and Ukraine affected investors' expectations following the escalation of
+      the Russian-Ukrainian war. For this, we perform an event study around the
+      Russian invasion of Ukraine on February 24, 2022, finding that firms with
+      significant trade activity with Russia experienced a substantial reduction
+      in cumulative returns. The effect on cumulative returns is especially
+      pronounced for firms that are dependent on Russian commodities. The impact
+      on the aggregate stock market performance of third countries was on
+      average 0.8 percentage points. The highest losses were borne by European
+      countries.
   - title: "Publishing in the Top Five: The Role of Seminar Presentations at Chicago
       and Harvard"
     subtitle: April 2023
