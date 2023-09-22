@@ -54,8 +54,8 @@ papers:
       productivity in the profession.
   - headline: ""
     subtitle: (with Elsa Leromain), February 2023
-    title: "The Indirect Effect of the Russian-Ukrainian War Through International
-      Linkages: Early Evidence from the Stock Market"
+    title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
+      Russia-Ukraine War"
     alt_links:
       alt_link_1_title: CEP DP No. 1899
       alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1899.pdf
