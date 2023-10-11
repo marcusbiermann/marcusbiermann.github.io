@@ -20,7 +20,7 @@ home:
 papers:
   - headline: Working Papers
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
-    subtitle: February 2023, Revision requested by the European Economic Review
+    subtitle: October 2023, Revision requested by the European Economic Review
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
       alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
@@ -43,15 +43,7 @@ papers:
 
       gained shares. The geography of knowledge dissemination shifted significantly as
 
-      the distance between host and speaker institutions increased on average by 32 percent.
-
-      The growing inequality in presentations among speakers is correlated with an
-
-      increase in inequality in terms of citations. The results imply that virtual presentations
-
-      instead of traveling can decrease gender-specific inequality and increase inequality by
-
-      productivity in the profession.
+      the distance between host and speaker institutions increased on average by 32 percent. The results imply that virtual presentations instead of traveling can decrease gender-specific inequality and increase inequality by productivity in the profession.
   - headline: ""
     subtitle: (with Elsa Leromain), October 2023
     title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
