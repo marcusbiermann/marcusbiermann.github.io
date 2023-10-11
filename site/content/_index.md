@@ -154,7 +154,7 @@ publications:
     title: "Trade and the Size Distribution of Firms: Evidence from the German Empire"
     headline: ""
 wip:
-  - title: Environmental Preferences and Deep Trade Agreements (with Gonzague
+  - title: Perceptions of GMOs and Deep Trade Integration (with Gonzague
       Vannoorenberghe)
   - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
 cv:
