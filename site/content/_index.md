@@ -75,9 +75,12 @@ papers:
       publications in the top five journals, this article documents a robust and
       significant correlation between presenting at Harvard University and
       publishing in the QJE and between presenting at the University of Chicago
-      and publishing in the JPE. Articles presented at Harvard (Chicago) and
-      published in the QJE (JPE) have, on average, a similar impact in terms of
-      citations as other articles published in the QJE (JPE).
+      and publishing in the JPE. Articles presented at Harvard and published in
+      the QJE have, on average, a similar impact in terms of citations compared
+      to other QJE articles, while also exhibiting a larger variance in terms of
+      citations. Articles presented at Chicago and published in the JPE have, on
+      average, a similar impact in terms of citations as other articles
+      published in JPE.
     headline: ""
 publications:
   - title: Tracing the International Transmission of a Crisis Through Multinational
