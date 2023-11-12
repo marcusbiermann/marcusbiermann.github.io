@@ -66,7 +66,7 @@ papers:
       countries.
   - title: "Publishing in the Top Five: The Role of Seminar Presentations at Chicago
       and Harvard"
-    subtitle: October 2023
+    subtitle: November 2023
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: The Quarterly Journal of Economics (QJE) managed by Harvard
       University and the Journal of Political Economy (JPE) managed by the
