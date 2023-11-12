@@ -64,8 +64,7 @@ papers:
       on the aggregate stock market performance of third countries was on
       average 0.8 percentage points. The highest losses were borne by European
       countries.
-  - title: "Publishing in the Top Five: The Role of Seminar Presentations at Chicago
-      and Harvard"
+  - title: "Publishing in the Top Journals: The Role of Seminar Presentations"
     subtitle: November 2023
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: The Quarterly Journal of Economics (QJE) managed by Harvard
