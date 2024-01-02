@@ -20,7 +20,7 @@ home:
 papers:
   - headline: Working Papers
     title: "Remote Talks: Changes to Economics Seminars During COVID-19"
-    subtitle: October 2023, Revision requested by the European Economic Review
+    subtitle: January 2024, Revision requested by the European Economic Review
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
       alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
@@ -33,17 +33,17 @@ papers:
       alt_link_3_title: LSE CentrePiece
       alt_link_4_title: Wall Street Journal
       alt_link_5_title: World Bank Development Impact Blog
-    description: >-
-      This paper analyzes the consequences of the change in the presentation
-      mode of
-
-      economics seminars triggered by the COVID-19 pandemic. The composition of seminar speakers changed significantly. The share of seminars held by women increased.
-
-      The leading economists in terms of recent output and top young top economists also
-
-      gained shares. The geography of knowledge dissemination shifted significantly as
-
-      the distance between host and speaker institutions increased on average by 32 percent. The results imply that virtual presentations instead of traveling can decrease gender-specific inequality and increase inequality by productivity in the profession.
+    description: This paper analyzes the consequences of the change in the
+      presentation mode of economics seminars triggered by the COVID-19
+      pandemic. The composition of seminar speakers changed significantly. The
+      share of seminars held by women increased. Several indicators of speaker
+      productivity show that speakers at the top of the distribution also gained
+      shares. The geography of knowledge dissemination shifted significantly as
+      the distance between host and speaker institutions increased on average by
+      32 percent. The results imply that the opportunity to offer virtual
+      presentations instead of traveling to deliver in-person presentations can
+      decrease gender-specific inequality and increase inequality in favor of
+      the "stars" within the profession.
   - headline: ""
     subtitle: (with Elsa Leromain), October 2023
     title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
