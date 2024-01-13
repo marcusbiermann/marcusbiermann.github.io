@@ -19,32 +19,6 @@ home:
   locations: []
 papers:
   - headline: Working Papers
-    title: "Remote Talks: Changes to Economics Seminars During COVID-19"
-    subtitle: January 2024, Revision requested by the European Economic Review
-    link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
-    alt_links:
-      alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
-      alt_link_2_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
-      alt_link_3_url: https://cep.lse.ac.uk/pubs/download/cp641.pdf
-      alt_link_4_url: https://www.wsj.com/articles/virtual-conferences-increase-women-attendance-11652452541?st=rhnujuglevtiga1&reflink=desktopwebshare_permalink
-      alt_link_5_url: https://blogs.worldbank.org/impactevaluations/weekly-links-december-3-chef-banerjee-modest-impacts-digital-markets-agriculture?cid=SHR_BlogSiteShare_EN_EXT
-      alt_link_1_title: CEP DP No. 1759
-      alt_link_2_title: "Coverage: LSE Blog"
-      alt_link_3_title: LSE CentrePiece
-      alt_link_4_title: Wall Street Journal
-      alt_link_5_title: World Bank Development Impact Blog
-    description: This paper analyzes the consequences of the change in the
-      presentation mode of economics seminars triggered by the COVID-19
-      pandemic. The composition of seminar speakers changed significantly. The
-      share of seminars held by women increased. Several indicators of speaker
-      productivity show that speakers at the top of the distribution also gained
-      shares. The geography of knowledge dissemination shifted significantly as
-      the distance between host and speaker institutions increased on average by
-      32 percent. The results imply that the opportunity to offer virtual
-      presentations instead of traveling to deliver in-person presentations can
-      decrease gender-specific inequality and increase inequality in favor of
-      the "stars" within the profession.
-  - headline: ""
     subtitle: (with Elsa Leromain), October 2023
     title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
       Russia-Ukraine War"
@@ -101,6 +75,31 @@ publications:
     alt_links:
       alt_link_1_title: "Coverage: BFI Brief"
       alt_link_1_url: https://bfi.uchicago.edu/insight/research-summary/tracing-the-international-transmission-of-a-crisis-through-multinational-firms/
+  - title: "Remote Talks: Changes to Economics Seminars During COVID-19"
+    description: This paper analyzes the consequences of the change in the
+      presentation mode of economics seminars triggered by the COVID-19
+      pandemic. The composition of seminar speakers changed significantly. The
+      share of seminars held by women increased. Several indicators of speaker
+      productivity show that speakers at the top of the distribution also gained
+      shares. The geography of knowledge dissemination shifted significantly as
+      the distance between host and speaker institutions increased on average by
+      32 percent. The results imply that the opportunity to offer virtual
+      presentations instead of traveling to deliver in-person presentations can
+      decrease gender-specific inequality and increase inequality in favor of
+      the "stars" within the profession.
+    subtitle: European Economic Review, Forthcoming
+    link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
+    alt_links:
+      alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
+      alt_link_2_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
+      alt_link_3_url: https://cep.lse.ac.uk/pubs/download/cp641.pdf
+      alt_link_4_url: https://www.wsj.com/articles/virtual-conferences-increase-women-attendance-11652452541?st=rhnujuglevtiga1&reflink=desktopwebshare_permalink
+      alt_link_5_url: https://blogs.worldbank.org/impactevaluations/weekly-links-december-3-chef-banerjee-modest-impacts-digital-markets-agriculture?cid=SHR_BlogSiteShare_EN_EXT
+      alt_link_1_title: CEP DP No. 1759
+      alt_link_2_title: "Coverage: LSE Blog"
+      alt_link_3_title: LSE CentrePiece
+      alt_link_4_title: Wall Street Journal
+      alt_link_5_title: World Bank Development Impact Blog
   - headline: ""
     title: On the Gender Diversity of Research Teams in Economics Seminars
     link: https://www.aeaweb.org/articles?id=10.1257/pandp.20231123
