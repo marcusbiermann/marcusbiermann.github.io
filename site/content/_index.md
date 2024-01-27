@@ -90,16 +90,18 @@ publications:
     subtitle: European Economic Review, Forthcoming
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
-      alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
-      alt_link_2_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
-      alt_link_3_url: https://cep.lse.ac.uk/pubs/download/cp641.pdf
-      alt_link_4_url: https://www.wsj.com/articles/virtual-conferences-increase-women-attendance-11652452541?st=rhnujuglevtiga1&reflink=desktopwebshare_permalink
-      alt_link_5_url: https://blogs.worldbank.org/impactevaluations/weekly-links-december-3-chef-banerjee-modest-impacts-digital-markets-agriculture?cid=SHR_BlogSiteShare_EN_EXT
-      alt_link_1_title: CEP DP No. 1759
-      alt_link_2_title: "Coverage: LSE Blog"
-      alt_link_3_title: LSE CentrePiece
-      alt_link_4_title: Wall Street Journal
-      alt_link_5_title: World Bank Development Impact Blog
+      alt_link_6_title: World Bank Development Impact Blog
+      alt_link_1_url: https://www.sciencedirect.com/science/article/pii/S0014292124000060
+      alt_link_2_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
+      alt_link_3_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
+      alt_link_4_url: https://cep.lse.ac.uk/pubs/download/cp641.pdf
+      alt_link_5_url: https://www.wsj.com/articles/virtual-conferences-increase-women-attendance-11652452541?st=rhnujuglevtiga1&reflink=desktopwebshare_permalink
+      alt_link_6_url: https://blogs.worldbank.org/impactevaluations/weekly-links-december-3-chef-banerjee-modest-impacts-digital-markets-agriculture?cid=SHR_BlogSiteShare_EN_EXT
+      alt_link_1_title: Article
+      alt_link_2_title: CEP DP No. 1759
+      alt_link_3_title: "Coverage: LSE Blog"
+      alt_link_4_title: LSE CentrePiece
+      alt_link_5_title: Wall Street Journal
   - headline: ""
     title: On the Gender Diversity of Research Teams in Economics Seminars
     link: https://www.aeaweb.org/articles?id=10.1257/pandp.20231123
