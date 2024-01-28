@@ -87,7 +87,7 @@ publications:
       presentations instead of traveling to deliver in-person presentations can
       decrease gender-specific inequality and increase inequality in favor of
       the "stars" within the profession.
-    subtitle: European Economic Review, Forthcoming
+    subtitle: European Economic Review, Vol. 163, April 2024, pp. 104677
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
       alt_link_6_title: World Bank Development Impact Blog
