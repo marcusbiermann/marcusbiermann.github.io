@@ -39,7 +39,7 @@ papers:
       average 0.8 percentage points. The highest losses were borne by European
       countries.
   - title: "Publishing in Top Journals: The Role of Seminar Presentations"
-    subtitle: February 2024
+    subtitle: March 2024
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: The Quarterly Journal of Economics (QJE) managed by Harvard
       University and the Journal of Political Economy (JPE) managed by the
