@@ -41,19 +41,18 @@ papers:
   - title: "Publishing in Top Journals: The Role of Seminar Presentations"
     subtitle: March 2024
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
-    description: The Quarterly Journal of Economics (QJE) managed by Harvard
-      University and the Journal of Political Economy (JPE) managed by the
-      University of Chicago are two of the top five journals in the economics
-      profession. Drawing on the acknowledgements of more than 2,000
-      publications in the top five journals, this article documents a robust and
-      significant correlation between presenting at Harvard University and
-      publishing in the QJE and between presenting at the University of Chicago
-      and publishing in the JPE. Articles presented at Harvard and published in
-      the QJE have, on average, a similar impact in terms of citations compared
-      to other QJE articles, while also exhibiting a larger variance in terms of
-      citations. Articles presented at Chicago and published in the JPE have, on
-      average, a similar impact in terms of citations as other articles
-      published in JPE.
+    description: Drawing on the acknowledgements of more than 2,000 publications in
+      the top five journals, this article documents that seminar presentations
+      are concentrated among 12 top institutions and geographically in the
+      Americas. Second, this study finds that there is a robust and significant
+      correlation between presenting at Harvard University and publishing in the
+      Quarterly Journal of Economics (QJE) and between presenting at the
+      University of Chicago and publishing in the Journal of Political Economy
+      (JPE). Articles presented at Harvard and published in the QJE have, on
+      average, a similar impact in terms of citations compared to other QJE
+      articles, while also exhibiting a larger variance in terms of citations.
+      Articles presented at Chicago and published in the JPE have, on average, a
+      similar impact in terms of citations as other articles published in JPE.
     headline: ""
 publications:
   - title: Tracing the International Transmission of a Crisis Through Multinational
