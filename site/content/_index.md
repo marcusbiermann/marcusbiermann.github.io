@@ -19,7 +19,7 @@ home:
   locations: []
 papers:
   - headline: Working Papers
-    subtitle: (with Elsa Leromain), October 2023
+    subtitle: (with Elsa Leromain), April 2023
     title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
       Russia-Ukraine War"
     alt_links:
