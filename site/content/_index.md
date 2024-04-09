@@ -72,8 +72,11 @@ publications:
     subtitle: (with Kilian Huber), Journal of Finance, Forthcoming
     link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
     alt_links:
-      alt_link_1_title: "Coverage: BFI Brief"
-      alt_link_1_url: https://bfi.uchicago.edu/insight/research-summary/tracing-the-international-transmission-of-a-crisis-through-multinational-firms/
+      alt_link_1_title: Article
+      alt_link_1_url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/jofi.13338
+      alt_link_3_title: ""
+      alt_link_2_url: https://bfi.uchicago.edu/insight/research-summary/tracing-the-international-transmission-of-a-crisis-through-multinational-firms/
+      alt_link_2_title: "Coverage: BFI Brief"
   - title: "Remote Talks: Changes to Economics Seminars During COVID-19"
     description: This paper analyzes the consequences of the change in the
       presentation mode of economics seminars triggered by the COVID-19
