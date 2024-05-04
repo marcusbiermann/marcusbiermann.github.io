@@ -69,7 +69,7 @@ publications:
       to developed credit markets attenuated the real effects. The total real
       impact of shock transmission through multinationals on foreign economies
       was large.
-    subtitle: (with Kilian Huber), Journal of Finance, Vol 79(3), June 2024, pp.
+    subtitle: (with Kilian Huber), Journal of Finance, Vol. 79(3), June 2024, pp.
       1789-1829.
     link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
     alt_links:
