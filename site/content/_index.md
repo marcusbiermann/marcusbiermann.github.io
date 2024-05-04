@@ -69,7 +69,8 @@ publications:
       to developed credit markets attenuated the real effects. The total real
       impact of shock transmission through multinationals on foreign economies
       was large.
-    subtitle: (with Kilian Huber), Journal of Finance, Forthcoming
+    subtitle: (with Kilian Huber), Journal of Finance, Vol 79(3), June 2024, pp.
+      1789-1829.
     link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
     alt_links:
       alt_link_1_title: Article
@@ -89,7 +90,7 @@ publications:
       presentations instead of traveling to deliver in-person presentations can
       decrease gender-specific inequality and increase inequality in favor of
       the "stars" within the profession.
-    subtitle: European Economic Review, Vol. 163, April 2024, pp. 104677
+    subtitle: European Economic Review, Vol. 163, April 2024, pp. 104677.
     link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
     alt_links:
       alt_link_6_title: World Bank Development Impact Blog
