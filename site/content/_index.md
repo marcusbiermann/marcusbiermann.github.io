@@ -38,8 +38,9 @@ papers:
       on the aggregate stock market performance of third countries was on
       average 0.8 percentage points. The highest losses were borne by European
       countries.
-  - title: "Publishing in Top Journals: The Role of Seminar Presentations"
-    subtitle: March 2024
+  - title: Where is Research in Top Economics Journals Presented? Evidence from
+      Acknowledgements
+    subtitle: May 2024
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: Drawing on the acknowledgements of more than 2,000 publications in
       the top five journals, this article documents that seminar presentations
