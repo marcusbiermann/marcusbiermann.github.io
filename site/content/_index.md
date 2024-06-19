@@ -72,13 +72,13 @@ publications:
       was large.
     subtitle: (with Kilian Huber), Journal of Finance, Vol. 79(3), June 2024, pp.
       1789-1829.
-    link: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
+    link: https://onlinelibrary.wiley.com/doi/epdf/10.1111/jofi.13338
     alt_links:
-      alt_link_1_title: Article
-      alt_link_1_url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/jofi.13338
+      alt_link_1_title: "Coverage: BFI Brief"
+      alt_link_1_url: https://bfi.uchicago.edu/insight/research-summary/tracing-the-international-transmission-of-a-crisis-through-multinational-firms/
       alt_link_3_title: ""
-      alt_link_2_url: https://bfi.uchicago.edu/insight/research-summary/tracing-the-international-transmission-of-a-crisis-through-multinational-firms/
-      alt_link_2_title: "Coverage: BFI Brief"
+      alt_link_2_url: ""
+      alt_link_2_title: ""
   - title: "Remote Talks: Changes to Economics Seminars During COVID-19"
     description: This paper analyzes the consequences of the change in the
       presentation mode of economics seminars triggered by the COVID-19
@@ -92,20 +92,20 @@ publications:
       decrease gender-specific inequality and increase inequality in favor of
       the "stars" within the profession.
     subtitle: European Economic Review, Vol. 163, April 2024, pp. 104677.
-    link: https://drive.google.com/file/d/1Qmpu8fBApCZVYb5QjsF_ibvmqIFOMS4d/view?usp=sharing
+    link: https://www.sciencedirect.com/science/article/pii/S0014292124000060
     alt_links:
-      alt_link_6_title: World Bank Development Impact Blog
-      alt_link_1_url: https://www.sciencedirect.com/science/article/pii/S0014292124000060
-      alt_link_2_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
-      alt_link_3_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
-      alt_link_4_url: https://cep.lse.ac.uk/pubs/download/cp641.pdf
-      alt_link_5_url: https://www.wsj.com/articles/virtual-conferences-increase-women-attendance-11652452541?st=rhnujuglevtiga1&reflink=desktopwebshare_permalink
-      alt_link_6_url: https://blogs.worldbank.org/impactevaluations/weekly-links-december-3-chef-banerjee-modest-impacts-digital-markets-agriculture?cid=SHR_BlogSiteShare_EN_EXT
-      alt_link_1_title: Article
-      alt_link_2_title: CEP DP No. 1759
-      alt_link_3_title: "Coverage: LSE Blog"
-      alt_link_4_title: LSE CentrePiece
-      alt_link_5_title: Wall Street Journal
+      alt_link_6_title: ""
+      alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1759.pdf
+      alt_link_2_url: https://blogs.lse.ac.uk/covid19/2021/12/08/which-speakers-will-benefit-from-the-rise-in-remote-seminar-presentations/
+      alt_link_3_url: https://cep.lse.ac.uk/pubs/download/cp641.pdf
+      alt_link_4_url: https://www.wsj.com/articles/virtual-conferences-increase-women-attendance-11652452541?st=rhnujuglevtiga1&reflink=desktopwebshare_permalink
+      alt_link_5_url: https://blogs.worldbank.org/impactevaluations/weekly-links-december-3-chef-banerjee-modest-impacts-digital-markets-agriculture?cid=SHR_BlogSiteShare_EN_EXT
+      alt_link_6_url: ""
+      alt_link_1_title: CEP DP No. 1759
+      alt_link_2_title: "Coverage: LSE Blog"
+      alt_link_3_title: LSE CentrePiece
+      alt_link_4_title: Wall Street Journal
+      alt_link_5_title: World Bank Development Impact Blog
   - headline: ""
     title: On the Gender Diversity of Research Teams in Economics Seminars
     link: https://www.aeaweb.org/articles?id=10.1257/pandp.20231123
