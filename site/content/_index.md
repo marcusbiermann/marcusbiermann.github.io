@@ -162,8 +162,8 @@ publications:
     title: "Trade and the Size Distribution of Firms: Evidence from the German Empire"
     headline: ""
 wip:
-  - title: Perceptions of GMOs and Deep Trade Integration (with Gonzague
-      Vannoorenberghe)
+  - title: Do Public Perceptions Matter for International Trade? The Case of GMOs
+      (with Gonzague Vannoorenberghe)
   - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
 cv:
   pre_doctoral_studies:
