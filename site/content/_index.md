@@ -14,7 +14,7 @@ home:
   large_photo: img/portait_marcus_biermann.png
   cv: https://drive.google.com/open?id=14Scl3GwyI0ojuLoPhkom_WS4dWys9jGE
   title: Marcus Biermann
-  small_photo: img/portrait_original.png
+  small_photo: img/portait_marcus_biermann.png
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
 papers:
