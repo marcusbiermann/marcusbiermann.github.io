@@ -11,7 +11,7 @@ home:
       from the LSE and I am affiliated with the Centre for Economic Performance.
       My primary research field is international trade. My secondary research
       interests are in the economics of science and financial economics.
-  large_photo: /img/portrait_original.png
+  large_photo: img/portait_marcus_biermann.png
   cv: https://drive.google.com/open?id=14Scl3GwyI0ojuLoPhkom_WS4dWys9jGE
   title: Marcus Biermann
   small_photo: /img/portrait_original.png
