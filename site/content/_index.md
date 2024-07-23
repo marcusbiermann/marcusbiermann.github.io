@@ -40,7 +40,7 @@ papers:
       countries.
   - title: Where is Research in Top Economics Journals Presented? Evidence from
       Acknowledgements
-    subtitle: June 2024
+    subtitle: July 2024
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: Drawing on the acknowledgements of more than 2,000 publications in
       the top five economics journals, this article demonstrates that the
