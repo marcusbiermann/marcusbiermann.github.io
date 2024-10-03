@@ -177,6 +177,8 @@ teaching:
   tables:
     - headline: Bielefeld University
       rows:
+        - date: 2024-
+          title: Außenwirtschaft, BSc-level lecture
         - date: 2023-
           title: Außenwirtschaft & Macroeconomics II, MSc-level lecture
     - headline: London School of Economics
