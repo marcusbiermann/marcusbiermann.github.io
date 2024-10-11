@@ -121,8 +121,8 @@ publications:
       mixed teams. The introduction of virtual seminars during the COVID-19
       pandemic led to more balanced distribution across team types.
   - alt_links:
-      alt_link_1_title: Article
-      alt_link_1_url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561
+      alt_link_1_title: ""
+      alt_link_1_url: ""
       alt_link_2_title: ""
       alt_link_2_url: ""
     description: This paper investigates how management practices as intangible
@@ -137,7 +137,7 @@ publications:
       parents are also more likely to install or retain a manager from the
       parent country post-acquisition.
     headline: ""
-    link: https://drive.google.com/file/d/1JIlsl_5NaPfc3YOe4iI-iGEqxl7XM1qF/view?usp=sharing
+    link: https://onlinelibrary.wiley.com/doi/epdf/10.1111/roie.12561
     subtitle: Review of International Economics, Vol. 30(1), February 2022, pp. 137-165.
     title: The Role of Management Practices in Acquisitions and the FDI Location
       Decision
