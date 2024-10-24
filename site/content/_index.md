@@ -30,6 +30,7 @@ papers:
       speakers from underrepresented minorities in the United States doubled
       with the introduction of virtual seminars during the COVID-19 pandemic.
     headline: Working Papers
+    subtitle: October 2024
   - headline: ""
     subtitle: (with Elsa Leromain), October 2024
     title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
