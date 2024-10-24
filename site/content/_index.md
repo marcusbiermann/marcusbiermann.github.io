@@ -18,7 +18,19 @@ home:
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
 papers:
-  - headline: Working Papers
+  - link: https://drive.google.com/file/d/1IaAkXpUZBrAlLKkyWMzDaz404H9vaZRg/view?usp=drive_link
+    title: "Bridging Barriers: How COVID-19 Changed Racial Diversity in Economics
+      Seminars"
+    description: In this paper, new facts are documented on the racial distribution
+      of seminar speakers in economics. From a sample of 270 institutions, I
+      determined that before the COVID-19 pandemic, 81.5% of seminars were given
+      by White speakers, 15% of seminars were given by Asian speakers, and 3.6%
+      by speakers with a Hispanic-Latino or Black background. The racial
+      distribution of speakers did not change globally. However, the share of
+      speakers from underrepresented minorities in the United States doubled
+      with the introduction of virtual seminars during the COVID-19 pandemic.
+    headline: Working Papers
+  - headline: ""
     subtitle: (with Elsa Leromain), October 2024
     title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
       Russia-Ukraine War"
