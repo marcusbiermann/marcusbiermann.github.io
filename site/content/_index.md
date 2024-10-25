@@ -18,7 +18,7 @@ home:
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
 papers:
-  - link: https://drive.google.com/file/d/1IaAkXpUZBrAlLKkyWMzDaz404H9vaZRg/view?usp=drive_link
+  - link: https://drive.google.com/file/d/1IaAkXpUZBrAlLKkyWMzDaz404H9vaZRg/view?usp=sharing
     title: "Bridging Barriers: How COVID-19 Changed Racial Diversity in Economics
       Seminars"
     description: In this paper, new facts are documented on the racial distribution
