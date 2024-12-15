@@ -53,7 +53,7 @@ papers:
       countries.
   - title: Where is Research in Top Economics Journals Presented? Evidence from
       Acknowledgements
-    subtitle: July 2024
+    subtitle: December 2024
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: Drawing on the acknowledgements of more than 2,000 publications in
       the top five economics journals, this article demonstrates that the
@@ -65,9 +65,12 @@ papers:
       Journal of Political Economy (JPE). Articles presented at Harvard and
       published in the QJE have, on average, a similar impact in terms of
       citations compared to other QJE articles, while also exhibiting a larger
-      variance in terms of citations. Articles presented at the University of
-      Chicago and published in the JPE have, on average, a similar impact in
-      terms of citations as other articles published in JPE.
+      variance in terms of citations. However, articles presented at Harvard by
+      authors affiliated with the institution and published in the QJE have a
+      lower median impact compared to articles presented at Harvard by
+      unaffiliated authors and published in the QJE. Articles presented at the
+      University of Chicago and published in the JPE have, on average, a similar
+      impact in terms of citations as other articles published in JPE.
     headline: ""
 publications:
   - title: Tracing the International Transmission of a Crisis Through Multinational
