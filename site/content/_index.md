@@ -55,22 +55,17 @@ papers:
       Acknowledgements
     subtitle: December 2024
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
-    description: Drawing on the acknowledgements of more than 2,000 publications in
-      the top five economics journals, this article demonstrates that the
-      seminar presentations of these articles are concentrated among 12 top
-      institutions and geographically in the Americas. Second, this study finds
-      robust and significant correlations between presenting at Harvard
-      University and publishing in the Quarterly Journal of Economics (QJE) and
-      between presenting at the University of Chicago and publishing in the
-      Journal of Political Economy (JPE). Articles presented at Harvard and
-      published in the QJE have, on average, a similar impact in terms of
-      citations compared to other QJE articles, while also exhibiting a larger
-      variance in terms of citations. However, articles presented at Harvard by
-      authors affiliated with the institution and published in the QJE have a
-      lower median impact compared to articles presented at Harvard by
-      unaffiliated authors and published in the QJE. Articles presented at the
-      University of Chicago and published in the JPE have, on average, a similar
-      impact in terms of citations as other articles published in JPE.
+    description: This article analyzes acknowledgments from over 2,000 top economics
+      journal publications, showing that seminar presentations are concentrated
+      at 12 elite institutions, primarily in the Americas. Significant
+      associations are found between presenting at Harvard and publishing in the
+      Quarterly Journal of Economics (QJE), and between presenting at the
+      University of Chicago and publishing in the Journal of Political Economy
+      (JPE). Articles presented at Harvard and published in QJE have similar
+      average citations but higher variance, with Harvard-affiliated authors
+      more likely to receive below-median citations. JPE articles presented at
+      the University of Chicago have similar average citations compared to other
+      JPE publications.
     headline: ""
 publications:
   - title: Tracing the International Transmission of a Crisis Through Multinational
