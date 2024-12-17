@@ -57,7 +57,7 @@ papers:
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: This article analyzes acknowledgments from over 2,000 top economics
       journal publications, showing that seminar presentations are concentrated
-      at 12 elite institutions, primarily in the Americas. Significant
+      at 12 top institutions, primarily in the Americas. Significant
       associations are found between presenting at Harvard and publishing in the
       Quarterly Journal of Economics (QJE), and between presenting at the
       University of Chicago and publishing in the Journal of Political Economy
