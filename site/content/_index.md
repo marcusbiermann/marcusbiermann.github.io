@@ -56,7 +56,7 @@ papers:
     subtitle: February 2025
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: This article introduces a novel dataset on seminar presentations
-      derived from acknowledgments in 15 top economics journals. I document that
+      derived from acknowledgments in 16 top economics journals. I document that
       articles published in the top five journals are presented more frequently,
       with presentations being highly concentrated at 12 leading institutions,
       primarily in the Americas. Significant associations are found between
