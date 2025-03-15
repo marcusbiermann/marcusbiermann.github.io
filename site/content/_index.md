@@ -64,7 +64,7 @@ papers:
       (QJE), and between presenting at the University of Chicago and publishing
       in the Journal of Political Economy (JPE). Articles presented at Harvard
       and published in QJE have similar average citations but higher variance,
-      with Harvardaffiliated authors more likely to receive below-median
+      with Harvard-affiliated authors more likely to receive below-median
       citations. JPE articles presented at the University of Chicago have
       similar average citations compared to other JPE publications.
     headline: ""
