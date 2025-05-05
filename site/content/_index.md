@@ -69,7 +69,7 @@ publications:
       speakers from underrepresented minorities in the United States almost
       doubled with the introduction of virtual seminars during the COVID-19
       pandemic.
-    subtitle: Economics Letters, Forthcoming.
+    subtitle: Economics Letters, Vol. 252, June 2025, pp. 112345
   - title: Tracing the International Transmission of a Crisis Through Multinational
       Firms
     headline: ""
