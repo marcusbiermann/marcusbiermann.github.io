@@ -38,7 +38,7 @@ papers:
 publications:
   - title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
       Russia-Ukraine War"
-    subtitle: (with Elsa Leromain), Forthcoming
+    subtitle: (with Elsa Leromain), Review of World Economics, Forthcoming.
     link: https://link.springer.com/article/10.1007/s10290-025-00594-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250701&utm_content=10.1007%2Fs10290-025-00594-4
     alt_links:
       alt_link_1_title: CEP DP No. 1899
