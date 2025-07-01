@@ -18,26 +18,6 @@ home:
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
 papers:
-  - headline: Working Papers
-    subtitle: (with Elsa Leromain), October 2024
-    title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
-      Russia-Ukraine War"
-    alt_links:
-      alt_link_1_title: CEP DP No. 1899
-      alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1899.pdf
-      alt_link_2_title: "Coverage: Economics Observatory"
-      alt_link_2_url: https://www.economicsobservatory.com/how-has-the-russian-invasion-of-ukraine-affected-global-financial-markets
-    link: https://drive.google.com/file/d/1gT_A_v2D3ZHhF0FwoW5F5D-gNHs7IqSQ/view?usp=sharing
-    description: This paper investigates how firms' international linkages to Russia
-      and Ukraine affected investors' expectations following the escalation of
-      the Russian-Ukrainian war. For this, we perform an event study around the
-      Russian invasion of Ukraine on February 24, 2022, finding that firms with
-      significant trade activity with Russia experienced a substantial reduction
-      in cumulative returns. The effect on cumulative returns is especially
-      pronounced for firms that are dependent on Russian commodities. The impact
-      on the aggregate stock market performance of third countries was on
-      average 0.8 percentage points. The highest losses were borne by European
-      countries.
   - title: Where is Research in Top Economics Journals Presented? Evidence from
       Acknowledgements
     subtitle: April 2025
@@ -54,9 +34,29 @@ papers:
       with Harvard-affiliated authors more likely to receive below-median
       citations. JPE articles presented at the University of Chicago have
       similar average citations compared to other JPE publications.
-    headline: ""
+    headline: Working Papers
 publications:
-  - headline: Publications
+  - title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
+      Russia-Ukraine War"
+    subtitle: (with Elsa Leromain), Forthcoming
+    link: https://link.springer.com/article/10.1007/s10290-025-00594-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250701&utm_content=10.1007%2Fs10290-025-00594-4
+    alt_links:
+      alt_link_1_title: CEP DP No. 1899
+      alt_link_1_url: https://cep.lse.ac.uk/pubs/download/dp1899.pdf
+      alt_link_2_title: "Coverage: Economics Observatory"
+      alt_link_2_url: https://www.economicsobservatory.com/how-has-the-russian-invasion-of-ukraine-affected-global-financial-markets
+    description: This paper investigates how firms’ international linkages to Russia
+      and Ukraine affected investors’ expectations following the escalation of
+      the Russian–Ukrainian war. For this, we perform an event study around the
+      Russian invasion of Ukraine on February 24, 2022, finding that firms with
+      significant trade activity with Russia experienced a substantial reduction
+      in cumulative returns. The effect on cumula¬tive returns is especially
+      pronounced for firms that are dependent on Russian com¬modities. The
+      overall impact on the aggregate stock market performance of third
+      countries was on average 1.5 percentage points. The highest losses were
+      borne by European countries.
+    headline: Publications
+  - headline: ""
     title: "Bridging Barriers: How COVID-19 Changed Racial Diversity in Economics
       Seminars"
     link: https://www.sciencedirect.com/science/article/pii/S016517652500182X
