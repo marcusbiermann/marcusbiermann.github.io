@@ -18,6 +18,20 @@ home:
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
 papers:
+  - title: "The Leaky Pipeline in Economics Seminars: Gendered Opportunities Before
+      and During COVID-19"
+    link: https://drive.google.com/file/d/1Bapww0CP4xP_hGa-qmv8UwT-PR1u4ucR/view?usp=drive_link
+    description: This paper documents new evidence on how seminar speaking
+      opportunities in economics are distributed across academic ranks. From a
+      sample of 270 institutions, I determined that before the COVID-19
+      pandemic, 34% of seminars were given by assistant professors, 20.4% of
+      seminars were given by associate professors, and 45.6% by full professors.
+      Following the COVID-19 shock, the share of associate professors increased.
+      The participation of women rose at all ranks, with the most pronounced
+      increase among female full professors, while the shares of male assistant
+      and full professors declined.
+    subtitle: September 2025
+    headline: Working Papers
   - title: Where is Research in Top Economics Journals Presented? Evidence from
       Acknowledgements
     subtitle: April 2025
@@ -34,7 +48,7 @@ papers:
       with Harvard-affiliated authors more likely to receive below-median
       citations. JPE articles presented at the University of Chicago have
       similar average citations compared to other JPE publications.
-    headline: Working Papers
+    headline: ""
 publications:
   - title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
       Russia-Ukraine War"
