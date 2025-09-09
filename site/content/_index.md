@@ -24,10 +24,10 @@ papers:
     description: This paper documents new evidence on how seminar speaking
       opportunities in economics are distributed across academic ranks. From a
       sample of 270 institutions, I determined that before the COVID-19
-      pandemic, 34% of seminars were given by assistant professors, 20.4% of
-      seminars were given by associate professors, and 45.6% by full professors.
-      Following the COVID-19 shock, the share of associate professors increased.
-      The participation of women rose at all ranks, with the most pronounced
+      pandemic, 34% of seminars were given by assistant professors, 20.4% by
+      associate professors, and 45.6% by full professors. Following the COVID-19
+      shock, the share given by associate professors increased. The
+      participation of women rose at all ranks, with the most pronounced
       increase among female full professors, while the shares of male assistant
       and full professors declined.
     subtitle: September 2025
