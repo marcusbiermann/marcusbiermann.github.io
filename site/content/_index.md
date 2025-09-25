@@ -20,7 +20,7 @@ home:
 papers:
   - title: "The Leaky Pipeline in Economics Seminars: Gendered Opportunities Before
       and During COVID-19"
-    link: https://drive.google.com/file/d/1Bapww0CP4xP_hGa-qmv8UwT-PR1u4ucR/view?usp=drive_link
+    link: https://drive.google.com/file/d/1Bapww0CP4xP_hGa-qmv8UwT-PR1u4ucR/view?usp=sharing
     description: This paper documents new evidence on how seminar speaking
       opportunities in economics are distributed across academic ranks. From a
       sample of 270 institutions, I determined that before the COVID-19
