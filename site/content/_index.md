@@ -137,7 +137,7 @@ publications:
       alt_link_5_title: World Bank Development Impact Blog
   - headline: ""
     title: On the Gender Diversity of Research Teams in Economics Seminars
-    link: https://www.aeaweb.org/articles?id=10.1257/pandp.20231123
+    link: https://www.jstor.org/stable/27249273
     subtitle: AEA Papers and Proceedings, Vol. 113, May 2023, pp. 473-76.
     description: Seminars are an important channel through which researchers receive
       feedback on their work and disseminate it. This paper presents descriptive
@@ -148,6 +148,10 @@ publications:
       were authored by male teams, and 33.5 percent of projects were authored by
       mixed teams. The introduction of virtual seminars during the COVID-19
       pandemic led to more balanced distribution across team types.
+    alt_links:
+      alt_link_1_title: AEA
+      alt_link_1_url: https://www.aeaweb.org/articles?id=10.1257/pandp.20231123
+      alt_link_2_title: ""
   - alt_links:
       alt_link_1_title: ""
       alt_link_1_url: ""
