@@ -18,20 +18,6 @@ home:
   job_paper_2: https://drive.google.com/open?id=1PMjWCTguR3_jCHk7fG0fO6IycnLCv9fc
   locations: []
 papers:
-  - title: "The Leaky Pipeline in Economics Seminars: Gendered Opportunities Before
-      and During COVID-19"
-    link: ""
-    description: This paper documents new evidence on how seminar speaking
-      opportunities in economics are distributed across academic ranks. From a
-      sample of 270 institutions, I determined that before the COVID-19
-      pandemic, 34% of seminars were given by assistant professors, 20.4% by
-      associate professors, and 45.6% by full professors. Following the COVID-19
-      shock, the share given by associate professors increased. The
-      participation of women rose at all ranks, with the most pronounced
-      increase among female full professors, while the shares of male assistant
-      and full professors declined.
-    subtitle: September 2025 (Update coming soon)
-    headline: Working Papers
   - title: Where is Research in Top Economics Journals Presented? Evidence from
       Acknowledgements
     subtitle: September 2025
@@ -48,7 +34,7 @@ papers:
       with Harvard-affiliated authors more likely to receive below-median
       citations. JPE articles presented at the University of Chicago have
       similar average citations compared to other JPE publications.
-    headline: ""
+    headline: Working Papers
 publications:
   - title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
       Russia-Ukraine War"
@@ -194,6 +180,10 @@ publications:
     title: "Trade and the Size Distribution of Firms: Evidence from the German Empire"
     headline: ""
 wip:
+  - title: "Cross-border Acquisitions and Network Effects in Services Trade:
+      Evidence from Germany (with My Nguyen)"
+  - title: "The Leaky Pipeline in Economics Seminars: Gendered Opportunities Before
+      and During COVID-19 (with Anna Zaharieva)"
   - title: Do Public Perceptions Matter for International Trade? The Case of GMOs
       (with Gonzague Vannoorenberghe)
   - title: Financing Service Trade (with Peter Eppinger and Karol Paludkiewicz)
