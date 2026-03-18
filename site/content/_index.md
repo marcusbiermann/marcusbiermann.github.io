@@ -20,20 +20,23 @@ home:
 papers:
   - title: Where is Research in Top Economics Journals Presented? Evidence from
       Acknowledgements
-    subtitle: September 2025
+    subtitle: March 2026
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: This article introduces a novel dataset on seminar presentations
-      derived from acknowledgments in 23 top economics journals. I document that
-      articles published in the top five journals are presented more frequently,
-      with presentations being highly concentrated at 12 leading institutions,
-      primarily in the Americas. Significant associations are found between
-      presenting at Harvard and publishing in the Quarterly Journal of Economics
-      (QJE), and between presenting at the University of Chicago and publishing
-      in the Journal of Political Economy (JPE). Articles presented at Harvard
-      and published in QJE have similar average citations but higher variance,
-      with Harvard-affiliated authors more likely to receive below-median
-      citations. JPE articles presented at the University of Chicago have
-      similar average citations compared to other JPE publications.
+      derived from acknowledgments in 30 top economics journals. I document that
+      articles published in the top five journals are presented more frequently
+      compared to other leading journals, with presentations being highly
+      concentrated at 12 leading institutions, primarily in the Americas.
+      Presentations at 12 top institutions are associated with higher impact in
+      terms of citations within the same publication outlet-year. Significant
+      associations are found between presenting at Harvard and publishing in the
+      Quarterly Journal of Economics (QJE), and between presenting at the
+      University of Chicago and publishing in the Journal of Political Economy
+      (JPE). Articles presented at Harvard and published in QJE have similar
+      average citations but higher variance, with Harvard-affiliated authors
+      more likely to receive below-median citations. JPE articles presented at
+      the University of Chicago have similar average citations compared to other
+      JPE publications.
     headline: Working Papers
 publications:
   - title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
