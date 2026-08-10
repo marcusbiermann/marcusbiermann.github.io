@@ -19,8 +19,8 @@ home:
   locations: []
 papers:
   - title: Where is Research in Top Economics Journals Presented? Evidence from
-      Acknowledgements
-    subtitle: July 2026
+      Acknowledgments
+    subtitle: August 2026
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: This article introduces a novel dataset on seminar presentations
       derived from acknowledgments in 30 top economics journals. I document that
