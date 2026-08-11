@@ -23,19 +23,22 @@ papers:
     subtitle: August 2026
     link: https://drive.google.com/file/d/1RYoCw_iD6k8LoRMNadmCmTP0tDkJtl8U/view?usp=sharing
     description: This article introduces a novel dataset on seminar presentations
-      derived from acknowledgments in 30 top economics journals. I document that
-      articles published in the top five journals are presented more frequently
-      compared to other leading journals, with presentations being highly
-      concentrated at 12 leading institutions, primarily in the Americas.
-      Presentations at 12 top institutions are associated with higher impact in
-      terms of citations within the same publication outlet-year. Significant
-      associations are found between presenting at Harvard and publishing in the
-      Quarterly Journal of Economics (QJE), and between presenting at the
-      University of Chicago and publishing in the Journal of Political Economy
-      (JPE). Articles presented at Harvard and published in QJE have similar
-      average citations but higher variance. JPE articles presented at the
-      University of Chicago have similar average citations compared to other JPE
-      publications.
+      constructed from acknowledgments in 30 leading economics journals,
+      covering more than 6,000 articles and 53,000 conference and seminar
+      presentations. I document that articles published in the top five journals
+      are presented more frequently than articles in other leading journals,
+      with presentations being highly concentrated at 12 leading institutions,
+      primarily in the Americas. Presentations at the 12 top institutions are
+      associated with higher citation impact within the same journal-year.
+      Significant associations are found between presenting at Harvard and
+      publishing in the Quarterly Journal of Economics (QJE), and between
+      presenting at the University of Chicago and publishing in the Journal of
+      Political Economy (JPE). Following the JPE's 2021 expansion of its
+      editorial board beyond Chicago, the concentration of JPE articles' seminar
+      presentations at Chicago declined relative to the pre-reform period.
+      Finally, home-institution presentations are not associated with lower
+      average citation impact, although Harvard-presented QJE articles are more
+      frequently observed in both tails of the citation distribution.
     headline: Working Papers
 publications:
   - title: "The Ripple Effect: Trade Linkages and the Stock Market Response to the
