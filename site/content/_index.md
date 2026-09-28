@@ -56,8 +56,8 @@ publications:
       the Russian–Ukrainian war. For this, we perform an event study around the
       Russian invasion of Ukraine on February 24, 2022, finding that firms with
       significant trade activity with Russia experienced a substantial reduction
-      in cumulative returns. The effect on cumula¬tive returns is especially
-      pronounced for firms that are dependent on Russian com¬modities. The
+      in cumulative returns. The effect on cumulative returns is especially
+      pronounced for firms that are dependent on Russian commodities. The
       overall impact on the aggregate stock market performance of third
       countries was on average 1.5 percentage points. The highest losses were
       borne by European countries.
