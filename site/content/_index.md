@@ -204,6 +204,8 @@ teaching:
   tables:
     - headline: Bielefeld University
       rows:
+        - date: 2026-
+          title: Macroeconomics I, MSc-level lecture
         - date: 2024-
           title: Außenwirtschaft, BSc-level lecture
         - date: 2023-
